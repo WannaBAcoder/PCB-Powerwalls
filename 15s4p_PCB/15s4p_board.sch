@@ -1,0 +1,2573 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	1950 1550 3200 1550
+Wire Wire Line
+	5600 6150 6800 6150
+Wire Wire Line
+	5600 1550 5600 6150
+Connection ~ 6600 1800
+Connection ~ 7000 1800
+Wire Wire Line
+	7400 1800 7250 1800
+Wire Wire Line
+	6600 1800 6800 1800
+Wire Wire Line
+	6800 1800 7000 1800
+Connection ~ 6600 4500
+Connection ~ 7000 4500
+Wire Wire Line
+	7400 4500 7250 4500
+Wire Wire Line
+	6600 4500 6800 4500
+$Comp
+L batter_2cell:Battery_Cell BT30
+U 1 1 5D26463E
+P 7000 4700
+F 0 "BT30" H 7518 4796 50  0000 L CNN
+F 1 "Battery_Cell" H 7518 4705 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 7000 4760 50  0001 C CNN
+F 3 "~" V 7000 4760 50  0001 C CNN
+	1    7000 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT24
+U 1 1 5D264638
+P 6200 4700
+F 0 "BT24" H 6718 4796 50  0000 L CNN
+F 1 "Battery_Cell" H 6718 4705 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 6200 4760 50  0001 C CNN
+F 3 "~" V 6200 4760 50  0001 C CNN
+	1    6200 4700
+	1    0    0    -1  
+$EndComp
+Connection ~ 6600 5400
+Connection ~ 7000 5400
+Wire Wire Line
+	7400 5400 7250 5400
+Wire Wire Line
+	6600 5400 6800 5400
+$Comp
+L batter_2cell:Battery_Cell BT31
+U 1 1 5D256D09
+P 7000 5600
+F 0 "BT31" H 7518 5696 50  0000 L CNN
+F 1 "Battery_Cell" H 7518 5605 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 7000 5660 50  0001 C CNN
+F 3 "~" V 7000 5660 50  0001 C CNN
+	1    7000 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT25
+U 1 1 5D256D03
+P 6200 5600
+F 0 "BT25" H 6718 5696 50  0000 L CNN
+F 1 "Battery_Cell" H 6718 5605 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 6200 5660 50  0001 C CNN
+F 3 "~" V 6200 5660 50  0001 C CNN
+	1    6200 5600
+	1    0    0    -1  
+$EndComp
+Connection ~ 6600 3600
+Connection ~ 7000 3600
+Wire Wire Line
+	7400 3600 7250 3600
+Wire Wire Line
+	6600 3600 6800 3600
+$Comp
+L batter_2cell:Battery_Cell BT29
+U 1 1 5D2460E4
+P 7000 3800
+F 0 "BT29" H 7518 3896 50  0000 L CNN
+F 1 "Battery_Cell" H 7518 3805 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 7000 3860 50  0001 C CNN
+F 3 "~" V 7000 3860 50  0001 C CNN
+	1    7000 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT23
+U 1 1 5D2460DE
+P 6200 3800
+F 0 "BT23" H 6718 3896 50  0000 L CNN
+F 1 "Battery_Cell" H 6718 3805 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 6200 3860 50  0001 C CNN
+F 3 "~" V 6200 3860 50  0001 C CNN
+	1    6200 3800
+	1    0    0    -1  
+$EndComp
+Connection ~ 6600 2700
+Connection ~ 7000 2700
+Wire Wire Line
+	7400 2700 7250 2700
+Wire Wire Line
+	6600 2700 6800 2700
+$Comp
+L batter_2cell:Battery_Cell BT28
+U 1 1 5D2396DA
+P 7000 2900
+F 0 "BT28" H 7518 2996 50  0000 L CNN
+F 1 "Battery_Cell" H 7518 2905 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 7000 2960 50  0001 C CNN
+F 3 "~" V 7000 2960 50  0001 C CNN
+	1    7000 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT22
+U 1 1 5D2396D4
+P 6200 2900
+F 0 "BT22" H 6718 2996 50  0000 L CNN
+F 1 "Battery_Cell" H 6718 2905 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 6200 2960 50  0001 C CNN
+F 3 "~" V 6200 2960 50  0001 C CNN
+	1    6200 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT19
+U 1 1 5D1FAD1C
+P 7000 2000
+F 0 "BT19" H 7518 2096 50  0000 L CNN
+F 1 "Battery_Cell" H 7518 2005 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 7000 2060 50  0001 C CNN
+F 3 "~" V 7000 2060 50  0001 C CNN
+	1    7000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT14
+U 1 1 5D1FAD16
+P 6200 2000
+F 0 "BT14" H 6718 2096 50  0000 L CNN
+F 1 "Battery_Cell" H 6718 2005 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 6200 2060 50  0001 C CNN
+F 3 "~" V 6200 2060 50  0001 C CNN
+	1    6200 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 2700 7000 2700
+Wire Wire Line
+	6200 2700 6300 2700
+Wire Wire Line
+	6800 3600 7000 3600
+Wire Wire Line
+	6200 3600 6300 3600
+Wire Wire Line
+	6200 4500 6300 4500
+Wire Wire Line
+	6800 4500 7000 4500
+Wire Wire Line
+	6200 5400 6300 5400
+Wire Wire Line
+	6800 5400 7000 5400
+Wire Wire Line
+	6200 5800 6200 5700
+Wire Wire Line
+	6600 5800 6600 5700
+Wire Wire Line
+	7000 5800 7000 5700
+Wire Wire Line
+	7400 5800 7400 5700
+$Comp
+L Connector:Conn_01x01_Male J12
+U 1 1 5D01E523
+P 6600 1650
+F 0 "J12" H 6500 1650 50  0001 C CNN
+F 1 "55.5V" H 6450 1650 50  0000 C CNN
+F 2 "1048:hole" H 6600 1650 50  0001 C CNN
+F 3 "~" H 6600 1650 50  0001 C CNN
+	1    6600 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J13
+U 1 1 5D01DF8D
+P 6600 2550
+F 0 "J13" H 6500 2550 50  0001 C CNN
+F 1 "51.8V" H 6450 2550 50  0000 C CNN
+F 2 "1048:hole" H 6600 2550 50  0001 C CNN
+F 3 "~" H 6600 2550 50  0001 C CNN
+	1    6600 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6800 2550 6800 2700
+$Comp
+L Connector:Conn_01x01_Male J14
+U 1 1 5D01AEE0
+P 6600 3450
+F 0 "J14" H 6500 3450 50  0001 C CNN
+F 1 "48.1V" H 6450 3450 50  0000 C CNN
+F 2 "1048:hole" H 6600 3450 50  0001 C CNN
+F 3 "~" H 6600 3450 50  0001 C CNN
+	1    6600 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J15
+U 1 1 5D01A37F
+P 6600 4350
+F 0 "J15" H 6500 4350 50  0001 C CNN
+F 1 "44.4V" H 6450 4350 50  0000 C CNN
+F 2 "1048:hole" H 6600 4350 50  0001 C CNN
+F 3 "~" H 6600 4350 50  0001 C CNN
+	1    6600 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J16
+U 1 1 5D018A08
+P 6600 5250
+F 0 "J16" H 6500 5250 50  0001 C CNN
+F 1 "40.7V" H 6450 5250 50  0000 C CNN
+F 2 "1048:hole" H 6600 5250 50  0001 C CNN
+F 3 "~" H 6600 5250 50  0001 C CNN
+	1    6600 5250
+	1    0    0    -1  
+$EndComp
+Connection ~ 6800 1800
+Wire Wire Line
+	6800 1650 6800 1800
+Wire Wire Line
+	6800 6000 7000 6000
+Connection ~ 6800 6000
+Wire Wire Line
+	6800 6150 6800 6000
+Wire Wire Line
+	6600 6000 6800 6000
+Connection ~ 6800 2700
+Wire Wire Line
+	6800 2400 7000 2400
+Connection ~ 6800 2400
+Connection ~ 6800 2550
+Wire Wire Line
+	6800 2550 6800 2400
+Wire Wire Line
+	6600 2400 6800 2400
+Connection ~ 7000 2400
+Connection ~ 6600 2400
+Wire Wire Line
+	6200 2400 6500 2400
+Wire Wire Line
+	7400 2200 7400 2100
+Wire Wire Line
+	7000 2200 7000 2100
+Wire Wire Line
+	6600 2200 6600 2100
+Wire Wire Line
+	6200 2200 6200 2100
+$Comp
+L Device:Fuse_Small F56
+U 1 1 5D063BDD
+P 7400 2300
+F 0 "F56" V 7400 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 7445 2348 50  0001 L CNN
+F 2 "1048:fuse" H 7400 2300 50  0001 C CNN
+F 3 "~" H 7400 2300 50  0001 C CNN
+	1    7400 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F51
+U 1 1 5D063BD3
+P 7000 2300
+F 0 "F51" V 7000 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 7045 2348 50  0001 L CNN
+F 2 "1048:fuse" H 7000 2300 50  0001 C CNN
+F 3 "~" H 7000 2300 50  0001 C CNN
+	1    7000 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F46
+U 1 1 5D063BC9
+P 6600 2300
+F 0 "F46" V 6600 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 6645 2348 50  0001 L CNN
+F 2 "1048:fuse" H 6600 2300 50  0001 C CNN
+F 3 "~" H 6600 2300 50  0001 C CNN
+	1    6600 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F41
+U 1 1 5D063BBF
+P 6200 2300
+F 0 "F41" V 6200 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 6245 2348 50  0001 L CNN
+F 2 "1048:fuse" H 6200 2300 50  0001 C CNN
+F 3 "~" H 6200 2300 50  0001 C CNN
+	1    6200 2300
+	0    1    1    0   
+$EndComp
+Connection ~ 6800 4350
+Wire Wire Line
+	6800 4200 6800 4350
+Connection ~ 6800 4500
+Wire Wire Line
+	6800 4500 6800 4350
+Wire Wire Line
+	6800 3300 7000 3300
+Connection ~ 6800 3300
+Connection ~ 6800 3450
+Wire Wire Line
+	6800 3450 6800 3300
+Wire Wire Line
+	6800 3450 6800 3600
+Wire Wire Line
+	6600 3300 6800 3300
+Connection ~ 6800 3600
+Connection ~ 7000 3300
+Wire Wire Line
+	7400 3300 7250 3300
+Connection ~ 6600 3300
+Wire Wire Line
+	6200 3300 6500 3300
+Wire Wire Line
+	7400 3100 7400 3000
+Wire Wire Line
+	7000 3100 7000 3000
+Wire Wire Line
+	6600 3100 6600 3000
+Wire Wire Line
+	6200 3100 6200 3000
+$Comp
+L Device:Fuse_Small F57
+U 1 1 5D063B55
+P 7400 3200
+F 0 "F57" V 7400 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 7445 3248 50  0001 L CNN
+F 2 "1048:fuse" H 7400 3200 50  0001 C CNN
+F 3 "~" H 7400 3200 50  0001 C CNN
+	1    7400 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F52
+U 1 1 5D063B4B
+P 7000 3200
+F 0 "F52" V 7000 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 7045 3248 50  0001 L CNN
+F 2 "1048:fuse" H 7000 3200 50  0001 C CNN
+F 3 "~" H 7000 3200 50  0001 C CNN
+	1    7000 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F47
+U 1 1 5D063B41
+P 6600 3200
+F 0 "F47" V 6600 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 6645 3248 50  0001 L CNN
+F 2 "1048:fuse" H 6600 3200 50  0001 C CNN
+F 3 "~" H 6600 3200 50  0001 C CNN
+	1    6600 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F42
+U 1 1 5D063B37
+P 6200 3200
+F 0 "F42" V 6200 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 6245 3248 50  0001 L CNN
+F 2 "1048:fuse" H 6200 3200 50  0001 C CNN
+F 3 "~" H 6200 3200 50  0001 C CNN
+	1    6200 3200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6800 4200 6600 4200
+Connection ~ 6800 4200
+Connection ~ 7000 4200
+Wire Wire Line
+	7400 4200 7250 4200
+Connection ~ 6600 4200
+Wire Wire Line
+	7000 4200 6800 4200
+Wire Wire Line
+	6200 4200 6500 4200
+Wire Wire Line
+	7400 4000 7400 3900
+Wire Wire Line
+	7000 4000 7000 3900
+Wire Wire Line
+	6600 4000 6600 3900
+Wire Wire Line
+	6200 4000 6200 3900
+$Comp
+L Device:Fuse_Small F58
+U 1 1 5D063AFA
+P 7400 4100
+F 0 "F58" V 7400 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 7445 4148 50  0001 L CNN
+F 2 "1048:fuse" H 7400 4100 50  0001 C CNN
+F 3 "~" H 7400 4100 50  0001 C CNN
+	1    7400 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F53
+U 1 1 5D063AF0
+P 7000 4100
+F 0 "F53" V 7000 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 7045 4148 50  0001 L CNN
+F 2 "1048:fuse" H 7000 4100 50  0001 C CNN
+F 3 "~" H 7000 4100 50  0001 C CNN
+	1    7000 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F48
+U 1 1 5D063AE6
+P 6600 4100
+F 0 "F48" V 6600 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 6645 4148 50  0001 L CNN
+F 2 "1048:fuse" H 6600 4100 50  0001 C CNN
+F 3 "~" H 6600 4100 50  0001 C CNN
+	1    6600 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F43
+U 1 1 5D063ADC
+P 6200 4100
+F 0 "F43" V 6200 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 6245 4148 50  0001 L CNN
+F 2 "1048:fuse" H 6200 4100 50  0001 C CNN
+F 3 "~" H 6200 4100 50  0001 C CNN
+	1    6200 4100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6800 5100 7000 5100
+Connection ~ 6800 5100
+Connection ~ 6800 5250
+Wire Wire Line
+	6800 5250 6800 5100
+Wire Wire Line
+	6800 5250 6800 5400
+Wire Wire Line
+	6600 5100 6800 5100
+Connection ~ 6800 5400
+Connection ~ 7000 5100
+Wire Wire Line
+	7400 5100 7250 5100
+Connection ~ 6600 5100
+Wire Wire Line
+	6200 5100 6500 5100
+Wire Wire Line
+	7400 4900 7400 4800
+Wire Wire Line
+	7000 4900 7000 4800
+Wire Wire Line
+	6600 4900 6600 4800
+Wire Wire Line
+	6200 4900 6200 4800
+$Comp
+L Device:Fuse_Small F59
+U 1 1 5D063A8B
+P 7400 5000
+F 0 "F59" V 7400 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 7445 5048 50  0001 L CNN
+F 2 "1048:fuse" H 7400 5000 50  0001 C CNN
+F 3 "~" H 7400 5000 50  0001 C CNN
+	1    7400 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F54
+U 1 1 5D063A81
+P 7000 5000
+F 0 "F54" V 7000 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 7045 5048 50  0001 L CNN
+F 2 "1048:fuse" H 7000 5000 50  0001 C CNN
+F 3 "~" H 7000 5000 50  0001 C CNN
+	1    7000 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F49
+U 1 1 5D063A77
+P 6600 5000
+F 0 "F49" V 6600 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 6645 5048 50  0001 L CNN
+F 2 "1048:fuse" H 6600 5000 50  0001 C CNN
+F 3 "~" H 6600 5000 50  0001 C CNN
+	1    6600 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F44
+U 1 1 5D063A6D
+P 6200 5000
+F 0 "F44" V 6200 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 6245 5048 50  0001 L CNN
+F 2 "1048:fuse" H 6200 5000 50  0001 C CNN
+F 3 "~" H 6200 5000 50  0001 C CNN
+	1    6200 5000
+	0    1    1    0   
+$EndComp
+Connection ~ 7000 6000
+Wire Wire Line
+	7400 6000 7150 6000
+Connection ~ 6600 6000
+Wire Wire Line
+	6200 6000 6500 6000
+$Comp
+L Device:Fuse_Small F60
+U 1 1 5D063A25
+P 7400 5900
+F 0 "F60" V 7400 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 7445 5948 50  0001 L CNN
+F 2 "1048:fuse" H 7400 5900 50  0001 C CNN
+F 3 "~" H 7400 5900 50  0001 C CNN
+	1    7400 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F55
+U 1 1 5D063A1B
+P 7000 5900
+F 0 "F55" V 7000 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 7045 5948 50  0001 L CNN
+F 2 "1048:fuse" H 7000 5900 50  0001 C CNN
+F 3 "~" H 7000 5900 50  0001 C CNN
+	1    7000 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F50
+U 1 1 5D063A11
+P 6600 5900
+F 0 "F50" V 6600 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 6645 5948 50  0001 L CNN
+F 2 "1048:fuse" H 6600 5900 50  0001 C CNN
+F 3 "~" H 6600 5900 50  0001 C CNN
+	1    6600 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F45
+U 1 1 5D063A07
+P 6200 5900
+F 0 "F45" V 6200 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 6245 5948 50  0001 L CNN
+F 2 "1048:fuse" H 6200 5900 50  0001 C CNN
+F 3 "~" H 6200 5900 50  0001 C CNN
+	1    6200 5900
+	0    1    1    0   
+$EndComp
+Connection ~ 4200 4500
+Connection ~ 4600 4500
+Wire Wire Line
+	4600 4500 4750 4500
+Wire Wire Line
+	4200 4500 4400 4500
+Wire Wire Line
+	4400 4500 4600 4500
+Wire Wire Line
+	4600 3600 5000 3600
+Connection ~ 4600 3600
+Wire Wire Line
+	4200 3600 4400 3600
+Connection ~ 4200 3600
+Wire Wire Line
+	4400 3600 4600 3600
+Wire Wire Line
+	3800 3600 4200 3600
+$Comp
+L Device:Battery_Cell BT21
+U 1 1 5D28BAE3
+P 3800 3800
+F 0 "BT21" H 3918 3896 50  0000 L CNN
+F 1 "Battery_Cell" H 3918 3805 50  0000 L CNN
+F 2 "1048:single_cell_dual_holder" V 3800 3860 50  0001 C CNN
+F 3 "~" V 3800 3860 50  0001 C CNN
+	1    3800 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT26
+U 1 1 5D290069
+P 4200 3800
+F 0 "BT26" H 4318 3896 50  0000 L CNN
+F 1 "Battery_Cell" H 4318 3805 50  0000 L CNN
+F 2 "1048:single_cell_dual_holder" V 4200 3860 50  0001 C CNN
+F 3 "~" V 4200 3860 50  0001 C CNN
+	1    4200 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT27
+U 1 1 5D290365
+P 4600 3800
+F 0 "BT27" H 4718 3896 50  0000 L CNN
+F 1 "Battery_Cell" H 4718 3805 50  0000 L CNN
+F 2 "1048:single_cell_dual_holder" V 4600 3860 50  0001 C CNN
+F 3 "~" V 4600 3860 50  0001 C CNN
+	1    4600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Battery_Cell BT32
+U 1 1 5D2907E6
+P 5000 3800
+F 0 "BT32" H 5118 3896 50  0000 L CNN
+F 1 "Battery_Cell" H 5118 3805 50  0000 L CNN
+F 2 "1048:single_cell_dual_holder" V 5000 3860 50  0001 C CNN
+F 3 "~" V 5000 3860 50  0001 C CNN
+	1    5000 3800
+	1    0    0    -1  
+$EndComp
+Connection ~ 4200 1800
+Connection ~ 4600 1800
+Wire Wire Line
+	5000 1800 4850 1800
+Wire Wire Line
+	4200 1800 4400 1800
+$Comp
+L batter_2cell:Battery_Cell BT16
+U 1 1 5D21FF71
+P 4600 2000
+F 0 "BT16" H 5118 2096 50  0000 L CNN
+F 1 "Battery_Cell" H 5118 2005 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 4600 2060 50  0001 C CNN
+F 3 "~" V 4600 2060 50  0001 C CNN
+	1    4600 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT11
+U 1 1 5D21FF6B
+P 3800 2000
+F 0 "BT11" H 4318 2096 50  0000 L CNN
+F 1 "Battery_Cell" H 4318 2005 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 3800 2060 50  0001 C CNN
+F 3 "~" V 3800 2060 50  0001 C CNN
+	1    3800 2000
+	1    0    0    -1  
+$EndComp
+Connection ~ 4200 2700
+Connection ~ 4600 2700
+Wire Wire Line
+	5000 2700 4850 2700
+Wire Wire Line
+	4200 2700 4400 2700
+$Comp
+L batter_2cell:Battery_Cell BT17
+U 1 1 5D213B7D
+P 4600 2900
+F 0 "BT17" H 5118 2996 50  0000 L CNN
+F 1 "Battery_Cell" H 5118 2905 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 4600 2960 50  0001 C CNN
+F 3 "~" V 4600 2960 50  0001 C CNN
+	1    4600 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT12
+U 1 1 5D213B77
+P 3800 2900
+F 0 "BT12" H 4318 2996 50  0000 L CNN
+F 1 "Battery_Cell" H 4318 2905 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 3800 2960 50  0001 C CNN
+F 3 "~" V 3800 2960 50  0001 C CNN
+	1    3800 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT18
+U 1 1 5D206D6A
+P 4600 4700
+F 0 "BT18" H 5118 4796 50  0000 L CNN
+F 1 "Battery_Cell" H 5118 4705 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 4600 4760 50  0001 C CNN
+F 3 "~" V 4600 4760 50  0001 C CNN
+	1    4600 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT13
+U 1 1 5D206D64
+P 3800 4700
+F 0 "BT13" H 4318 4796 50  0000 L CNN
+F 1 "Battery_Cell" H 4318 4705 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 3800 4760 50  0001 C CNN
+F 3 "~" V 3800 4760 50  0001 C CNN
+	1    3800 4700
+	1    0    0    -1  
+$EndComp
+Connection ~ 4200 5400
+Connection ~ 4600 5400
+Wire Wire Line
+	5000 5400 4850 5400
+Wire Wire Line
+	4200 5400 4400 5400
+$Comp
+L batter_2cell:Battery_Cell BT20
+U 1 1 5D1EE246
+P 4600 5600
+F 0 "BT20" H 5118 5696 50  0000 L CNN
+F 1 "Battery_Cell" H 5118 5605 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 4600 5660 50  0001 C CNN
+F 3 "~" V 4600 5660 50  0001 C CNN
+	1    4600 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT15
+U 1 1 5D1EE240
+P 3800 5600
+F 0 "BT15" H 4318 5696 50  0000 L CNN
+F 1 "Battery_Cell" H 4318 5605 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 3800 5660 50  0001 C CNN
+F 3 "~" V 3800 5660 50  0001 C CNN
+	1    3800 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 1800 4600 1800
+Wire Wire Line
+	3800 1800 3900 1800
+Wire Wire Line
+	4400 2700 4600 2700
+Wire Wire Line
+	3800 2700 3900 2700
+Wire Wire Line
+	3800 5400 3900 5400
+Wire Wire Line
+	4400 5400 4600 5400
+Wire Wire Line
+	3800 5800 3800 5700
+Wire Wire Line
+	4200 5800 4200 5700
+Wire Wire Line
+	4600 5800 4600 5700
+Wire Wire Line
+	5000 5800 5000 5700
+$Comp
+L Connector:Conn_01x01_Male J7
+U 1 1 5D0167AC
+P 4200 1650
+F 0 "J7" H 4100 1650 50  0001 C CNN
+F 1 "37V" H 4100 1650 50  0000 C CNN
+F 2 "1048:hole" H 4200 1650 50  0001 C CNN
+F 3 "~" H 4200 1650 50  0001 C CNN
+	1    4200 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 1800 4400 1650
+$Comp
+L Connector:Conn_01x01_Male J8
+U 1 1 5D014831
+P 4200 2550
+F 0 "J8" H 4100 2550 50  0001 C CNN
+F 1 "33.3V" H 4050 2550 50  0000 C CNN
+F 2 "1048:hole" H 4200 2550 50  0001 C CNN
+F 3 "~" H 4200 2550 50  0001 C CNN
+	1    4200 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J9
+U 1 1 5D013BFD
+P 4200 3450
+F 0 "J9" H 4100 3450 50  0001 C CNN
+F 1 "29.6V" H 4050 3450 50  0000 C CNN
+F 2 "1048:hole" H 4200 3450 50  0001 C CNN
+F 3 "~" H 4200 3450 50  0001 C CNN
+	1    4200 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J10
+U 1 1 5D01304F
+P 4200 4350
+F 0 "J10" H 4100 4350 50  0001 C CNN
+F 1 "25.9V" H 4050 4350 50  0000 C CNN
+F 2 "1048:hole" H 4200 4350 50  0001 C CNN
+F 3 "~" H 4200 4350 50  0001 C CNN
+	1    4200 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J11
+U 1 1 5D0119B9
+P 4200 5250
+F 0 "J11" H 4100 5250 50  0001 C CNN
+F 1 "22.2V" H 4050 5250 50  0000 C CNN
+F 2 "1048:hole" H 4200 5250 50  0001 C CNN
+F 3 "~" H 4200 5250 50  0001 C CNN
+	1    4200 5250
+	1    0    0    -1  
+$EndComp
+Connection ~ 4400 1650
+Wire Wire Line
+	4400 1550 5600 1550
+Wire Wire Line
+	4400 1650 4400 1550
+Connection ~ 4400 1800
+Wire Wire Line
+	4400 6000 4600 6000
+Connection ~ 4400 6000
+Wire Wire Line
+	4400 6150 4400 6000
+Wire Wire Line
+	4200 6000 4400 6000
+Connection ~ 4400 2700
+Wire Wire Line
+	4400 2400 4600 2400
+Connection ~ 4400 2400
+Connection ~ 4400 2550
+Wire Wire Line
+	4400 2550 4400 2400
+Wire Wire Line
+	4400 2550 4400 2700
+Wire Wire Line
+	4200 2400 4400 2400
+Connection ~ 4600 2400
+Wire Wire Line
+	5000 2400 4850 2400
+Connection ~ 4200 2400
+Wire Wire Line
+	3800 2400 4100 2400
+Wire Wire Line
+	5000 2200 5000 2100
+Wire Wire Line
+	4600 2200 4600 2100
+Wire Wire Line
+	4200 2200 4200 2100
+Wire Wire Line
+	3800 2200 3800 2100
+$Comp
+L Device:Fuse_Small F36
+U 1 1 5D0347D2
+P 5000 2300
+F 0 "F36" V 5000 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 5045 2348 50  0001 L CNN
+F 2 "1048:fuse" H 5000 2300 50  0001 C CNN
+F 3 "~" H 5000 2300 50  0001 C CNN
+	1    5000 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F31
+U 1 1 5D0347C8
+P 4600 2300
+F 0 "F31" V 4600 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 4645 2348 50  0001 L CNN
+F 2 "1048:fuse" H 4600 2300 50  0001 C CNN
+F 3 "~" H 4600 2300 50  0001 C CNN
+	1    4600 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F26
+U 1 1 5D0347BE
+P 4200 2300
+F 0 "F26" V 4200 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 4245 2348 50  0001 L CNN
+F 2 "1048:fuse" H 4200 2300 50  0001 C CNN
+F 3 "~" H 4200 2300 50  0001 C CNN
+	1    4200 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F21
+U 1 1 5D0347B4
+P 3800 2300
+F 0 "F21" V 3800 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 3845 2348 50  0001 L CNN
+F 2 "1048:fuse" H 3800 2300 50  0001 C CNN
+F 3 "~" H 3800 2300 50  0001 C CNN
+	1    3800 2300
+	0    1    1    0   
+$EndComp
+Connection ~ 4400 4350
+Wire Wire Line
+	4400 4200 4400 4350
+Connection ~ 4400 4500
+Wire Wire Line
+	4400 4500 4400 4350
+Wire Wire Line
+	4400 3300 4600 3300
+Connection ~ 4400 3300
+Connection ~ 4400 3450
+Wire Wire Line
+	4400 3450 4400 3300
+Wire Wire Line
+	4400 3450 4400 3600
+Wire Wire Line
+	4200 3300 4400 3300
+Connection ~ 4400 3600
+Connection ~ 4600 3300
+Wire Wire Line
+	5000 3300 4850 3300
+Connection ~ 4200 3300
+Wire Wire Line
+	3800 3300 4100 3300
+Wire Wire Line
+	5000 3100 5000 3000
+Wire Wire Line
+	4600 3100 4600 3000
+Wire Wire Line
+	4200 3100 4200 3000
+Wire Wire Line
+	3800 3100 3800 3000
+$Comp
+L Device:Fuse_Small F37
+U 1 1 5D03474A
+P 5000 3200
+F 0 "F37" V 5000 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 5045 3248 50  0001 L CNN
+F 2 "1048:fuse" H 5000 3200 50  0001 C CNN
+F 3 "~" H 5000 3200 50  0001 C CNN
+	1    5000 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F32
+U 1 1 5D034740
+P 4600 3200
+F 0 "F32" V 4600 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 4645 3248 50  0001 L CNN
+F 2 "1048:fuse" H 4600 3200 50  0001 C CNN
+F 3 "~" H 4600 3200 50  0001 C CNN
+	1    4600 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F27
+U 1 1 5D034736
+P 4200 3200
+F 0 "F27" V 4200 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 4245 3248 50  0001 L CNN
+F 2 "1048:fuse" H 4200 3200 50  0001 C CNN
+F 3 "~" H 4200 3200 50  0001 C CNN
+	1    4200 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F22
+U 1 1 5D03472C
+P 3800 3200
+F 0 "F22" V 3800 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 3845 3248 50  0001 L CNN
+F 2 "1048:fuse" H 3800 3200 50  0001 C CNN
+F 3 "~" H 3800 3200 50  0001 C CNN
+	1    3800 3200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4400 4200 4200 4200
+Connection ~ 4400 4200
+Connection ~ 4600 4200
+Wire Wire Line
+	5000 4200 4600 4200
+Connection ~ 4200 4200
+Wire Wire Line
+	4600 4200 4400 4200
+Wire Wire Line
+	3800 4200 4200 4200
+Wire Wire Line
+	5000 4000 5000 3900
+Wire Wire Line
+	4600 4000 4600 3900
+Wire Wire Line
+	4200 4000 4200 3900
+Wire Wire Line
+	3800 4000 3800 3900
+$Comp
+L Device:Fuse_Small F38
+U 1 1 5D0346EF
+P 5000 4100
+F 0 "F38" V 5000 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 5045 4148 50  0001 L CNN
+F 2 "1048:fuse" H 5000 4100 50  0001 C CNN
+F 3 "~" H 5000 4100 50  0001 C CNN
+	1    5000 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F33
+U 1 1 5D0346E5
+P 4600 4100
+F 0 "F33" V 4600 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 4645 4148 50  0001 L CNN
+F 2 "1048:fuse" H 4600 4100 50  0001 C CNN
+F 3 "~" H 4600 4100 50  0001 C CNN
+	1    4600 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F28
+U 1 1 5D0346DB
+P 4200 4100
+F 0 "F28" V 4200 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 4245 4148 50  0001 L CNN
+F 2 "1048:fuse" H 4200 4100 50  0001 C CNN
+F 3 "~" H 4200 4100 50  0001 C CNN
+	1    4200 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F23
+U 1 1 5D0346D1
+P 3800 4100
+F 0 "F23" V 3800 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 3845 4148 50  0001 L CNN
+F 2 "1048:fuse" H 3800 4100 50  0001 C CNN
+F 3 "~" H 3800 4100 50  0001 C CNN
+	1    3800 4100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4400 5100 4600 5100
+Connection ~ 4400 5100
+Connection ~ 4400 5250
+Wire Wire Line
+	4400 5250 4400 5100
+Wire Wire Line
+	4400 5250 4400 5400
+Wire Wire Line
+	4200 5100 4400 5100
+Connection ~ 4400 5400
+Connection ~ 4600 5100
+Wire Wire Line
+	5000 5100 4850 5100
+Connection ~ 4200 5100
+Wire Wire Line
+	3800 5100 4100 5100
+Wire Wire Line
+	5000 4900 5000 4800
+Wire Wire Line
+	4600 4900 4600 4800
+Wire Wire Line
+	4200 4900 4200 4800
+Wire Wire Line
+	3800 4900 3800 4800
+$Comp
+L Device:Fuse_Small F39
+U 1 1 5D034680
+P 5000 5000
+F 0 "F39" V 5000 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 5045 5048 50  0001 L CNN
+F 2 "1048:fuse" H 5000 5000 50  0001 C CNN
+F 3 "~" H 5000 5000 50  0001 C CNN
+	1    5000 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F34
+U 1 1 5D034676
+P 4600 5000
+F 0 "F34" V 4600 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 4645 5048 50  0001 L CNN
+F 2 "1048:fuse" H 4600 5000 50  0001 C CNN
+F 3 "~" H 4600 5000 50  0001 C CNN
+	1    4600 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F29
+U 1 1 5D03466C
+P 4200 5000
+F 0 "F29" V 4200 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 4245 5048 50  0001 L CNN
+F 2 "1048:fuse" H 4200 5000 50  0001 C CNN
+F 3 "~" H 4200 5000 50  0001 C CNN
+	1    4200 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F24
+U 1 1 5D034662
+P 3800 5000
+F 0 "F24" V 3800 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 3845 5048 50  0001 L CNN
+F 2 "1048:fuse" H 3800 5000 50  0001 C CNN
+F 3 "~" H 3800 5000 50  0001 C CNN
+	1    3800 5000
+	0    1    1    0   
+$EndComp
+Connection ~ 4600 6000
+Wire Wire Line
+	5000 6000 4850 6000
+Connection ~ 4200 6000
+Wire Wire Line
+	3800 6000 4100 6000
+$Comp
+L Device:Fuse_Small F40
+U 1 1 5D03461A
+P 5000 5900
+F 0 "F40" V 5000 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 5045 5948 50  0001 L CNN
+F 2 "1048:fuse" H 5000 5900 50  0001 C CNN
+F 3 "~" H 5000 5900 50  0001 C CNN
+	1    5000 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F35
+U 1 1 5D034610
+P 4600 5900
+F 0 "F35" V 4600 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 4645 5948 50  0001 L CNN
+F 2 "1048:fuse" H 4600 5900 50  0001 C CNN
+F 3 "~" H 4600 5900 50  0001 C CNN
+	1    4600 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F30
+U 1 1 5D034606
+P 4200 5900
+F 0 "F30" V 4200 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 4245 5948 50  0001 L CNN
+F 2 "1048:fuse" H 4200 5900 50  0001 C CNN
+F 3 "~" H 4200 5900 50  0001 C CNN
+	1    4200 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F25
+U 1 1 5D0345FC
+P 3800 5900
+F 0 "F25" V 3800 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 3845 5948 50  0001 L CNN
+F 2 "1048:fuse" H 3800 5900 50  0001 C CNN
+F 3 "~" H 3800 5900 50  0001 C CNN
+	1    3800 5900
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3200 6150 3200 1550
+Wire Wire Line
+	3200 6150 4400 6150
+Connection ~ 1750 1800
+Connection ~ 2150 1800
+Wire Wire Line
+	2550 1800 2400 1800
+Wire Wire Line
+	1750 1800 1950 1800
+$Comp
+L batter_2cell:Battery_Cell BT6
+U 1 1 5D1DBDDD
+P 2150 2000
+F 0 "BT6" H 2668 2096 50  0000 L CNN
+F 1 "Battery_Cell" H 2668 2005 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 2150 2060 50  0001 C CNN
+F 3 "~" V 2150 2060 50  0001 C CNN
+	1    2150 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT1
+U 1 1 5D1DBDD3
+P 1350 2000
+F 0 "BT1" H 1868 2096 50  0000 L CNN
+F 1 "Battery_Cell" H 1868 2005 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 1350 2060 50  0001 C CNN
+F 3 "~" V 1350 2060 50  0001 C CNN
+	1    1350 2000
+	1    0    0    -1  
+$EndComp
+Connection ~ 1750 2700
+Wire Wire Line
+	1750 2700 1500 2700
+Connection ~ 2150 2700
+Wire Wire Line
+	2550 2700 2400 2700
+Wire Wire Line
+	1750 2700 1950 2700
+$Comp
+L batter_2cell:Battery_Cell BT7
+U 1 1 5D1CF6CB
+P 2150 2900
+F 0 "BT7" H 2668 2996 50  0000 L CNN
+F 1 "Battery_Cell" H 2668 2905 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 2150 2960 50  0001 C CNN
+F 3 "~" V 2150 2960 50  0001 C CNN
+	1    2150 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT2
+U 1 1 5D1CF6C1
+P 1350 2900
+F 0 "BT2" H 1868 2996 50  0000 L CNN
+F 1 "Battery_Cell" H 1868 2905 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 1350 2960 50  0001 C CNN
+F 3 "~" V 1350 2960 50  0001 C CNN
+	1    1350 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 1750 3600
+Connection ~ 2150 3600
+Wire Wire Line
+	1750 3600 1950 3600
+$Comp
+L batter_2cell:Battery_Cell BT8
+U 1 1 5D1C2AD0
+P 2150 3800
+F 0 "BT8" H 2668 3896 50  0000 L CNN
+F 1 "Battery_Cell" H 2668 3805 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 2150 3860 50  0001 C CNN
+F 3 "~" V 2150 3860 50  0001 C CNN
+	1    2150 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L batter_2cell:Battery_Cell BT3
+U 1 1 5D1C2AC6
+P 1350 3800
+F 0 "BT3" H 1868 3896 50  0000 L CNN
+F 1 "Battery_Cell" H 1868 3805 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 1350 3860 50  0001 C CNN
+F 3 "~" V 1350 3860 50  0001 C CNN
+	1    1350 3800
+	1    0    0    -1  
+$EndComp
+Connection ~ 1750 5400
+Wire Wire Line
+	1750 5400 1950 5400
+Wire Wire Line
+	1950 1800 2150 1800
+Wire Wire Line
+	1950 2700 2150 2700
+Wire Wire Line
+	1950 3600 2150 3600
+Wire Wire Line
+	1750 5800 1750 5700
+Wire Wire Line
+	2150 5800 2150 5700
+$Comp
+L batter_2cell:Battery_Cell BT5
+U 1 1 5D12E801
+P 1350 5600
+F 0 "BT5" H 1868 5696 50  0000 L CNN
+F 1 "Battery_Cell" H 1868 5605 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 1350 5660 50  0001 C CNN
+F 3 "~" V 1350 5660 50  0001 C CNN
+	1    1350 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 5D010EFC
+P 1750 1650
+F 0 "J1" H 1650 1650 50  0001 C CNN
+F 1 "18.5V" H 1600 1650 50  0000 C CNN
+F 2 "1048:hole" H 1750 1650 50  0001 C CNN
+F 3 "~" H 1750 1650 50  0001 C CNN
+	1    1750 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 5D00EE0C
+P 1750 2550
+F 0 "J2" H 1650 2550 50  0001 C CNN
+F 1 "14.8V" H 1600 2550 50  0000 C CNN
+F 2 "1048:hole" H 1750 2550 50  0001 C CNN
+F 3 "~" H 1750 2550 50  0001 C CNN
+	1    1750 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 2550 1950 2700
+$Comp
+L Connector:Conn_01x01_Male J3
+U 1 1 5D00C973
+P 1750 3450
+F 0 "J3" H 1650 3450 50  0001 C CNN
+F 1 "11.1V" H 1600 3450 50  0000 C CNN
+F 2 "1048:hole" H 1750 3450 50  0001 C CNN
+F 3 "~" H 1750 3450 50  0001 C CNN
+	1    1750 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J5
+U 1 1 5D00B6CE
+P 1750 5250
+F 0 "J5" H 1650 5250 50  0001 C CNN
+F 1 "3.7V" H 1650 5250 50  0000 C CNN
+F 2 "1048:hole" H 1750 5250 50  0001 C CNN
+F 3 "~" H 1750 5250 50  0001 C CNN
+	1    1750 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 6000 2150 6000
+Connection ~ 1950 6000
+Wire Wire Line
+	1750 6000 1950 6000
+Connection ~ 1950 1650
+Wire Wire Line
+	1950 1650 1950 1550
+Connection ~ 1950 1800
+Wire Wire Line
+	1950 1650 1950 1800
+Connection ~ 1950 2700
+Wire Wire Line
+	1950 2400 2150 2400
+Connection ~ 1950 2400
+Connection ~ 1950 2550
+Wire Wire Line
+	1950 2550 1950 2400
+Wire Wire Line
+	1750 2400 1950 2400
+Connection ~ 2150 2400
+Connection ~ 1750 2400
+Wire Wire Line
+	1350 2400 1650 2400
+Wire Wire Line
+	2550 2200 2550 2100
+Wire Wire Line
+	2150 2200 2150 2100
+Wire Wire Line
+	1750 2200 1750 2100
+Wire Wire Line
+	1350 2200 1350 2100
+$Comp
+L Device:Fuse_Small F16
+U 1 1 5D010361
+P 2550 2300
+F 0 "F16" V 2550 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 2595 2348 50  0001 L CNN
+F 2 "1048:fuse" H 2550 2300 50  0001 C CNN
+F 3 "~" H 2550 2300 50  0001 C CNN
+	1    2550 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F11
+U 1 1 5D010357
+P 2150 2300
+F 0 "F11" V 2150 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 2195 2348 50  0001 L CNN
+F 2 "1048:fuse" H 2150 2300 50  0001 C CNN
+F 3 "~" H 2150 2300 50  0001 C CNN
+	1    2150 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F6
+U 1 1 5D01034D
+P 1750 2300
+F 0 "F6" V 1750 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 1795 2348 50  0001 L CNN
+F 2 "1048:fuse" H 1750 2300 50  0001 C CNN
+F 3 "~" H 1750 2300 50  0001 C CNN
+	1    1750 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F1
+U 1 1 5D010343
+P 1350 2300
+F 0 "F1" V 1350 2348 50  0000 L CNN
+F 1 "Fuse_Small" V 1395 2348 50  0001 L CNN
+F 2 "1048:fuse" H 1350 2300 50  0001 C CNN
+F 3 "~" H 1350 2300 50  0001 C CNN
+	1    1350 2300
+	0    1    1    0   
+$EndComp
+Connection ~ 1950 4500
+Wire Wire Line
+	1950 3300 2150 3300
+Connection ~ 1950 3300
+Connection ~ 1950 3450
+Wire Wire Line
+	1950 3450 1950 3300
+Wire Wire Line
+	1950 3450 1950 3600
+Wire Wire Line
+	1750 3300 1950 3300
+Connection ~ 1950 3600
+Connection ~ 2150 3300
+Connection ~ 1750 3300
+Wire Wire Line
+	1350 3300 1600 3300
+Wire Wire Line
+	2550 3100 2550 3000
+Wire Wire Line
+	2150 3100 2150 3000
+Wire Wire Line
+	1750 3100 1750 3000
+Wire Wire Line
+	1350 3100 1350 3000
+$Comp
+L Device:Fuse_Small F17
+U 1 1 5CFF6724
+P 2550 3200
+F 0 "F17" V 2550 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 2595 3248 50  0001 L CNN
+F 2 "1048:fuse" H 2550 3200 50  0001 C CNN
+F 3 "~" H 2550 3200 50  0001 C CNN
+	1    2550 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F12
+U 1 1 5CFF671A
+P 2150 3200
+F 0 "F12" V 2150 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 2195 3248 50  0001 L CNN
+F 2 "1048:fuse" H 2150 3200 50  0001 C CNN
+F 3 "~" H 2150 3200 50  0001 C CNN
+	1    2150 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F7
+U 1 1 5CFF6710
+P 1750 3200
+F 0 "F7" V 1750 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 1795 3248 50  0001 L CNN
+F 2 "1048:fuse" H 1750 3200 50  0001 C CNN
+F 3 "~" H 1750 3200 50  0001 C CNN
+	1    1750 3200
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F2
+U 1 1 5CFF6706
+P 1350 3200
+F 0 "F2" V 1350 3248 50  0000 L CNN
+F 1 "Fuse_Small" V 1395 3248 50  0001 L CNN
+F 2 "1048:fuse" H 1350 3200 50  0001 C CNN
+F 3 "~" H 1350 3200 50  0001 C CNN
+	1    1350 3200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1950 4200 1750 4200
+Connection ~ 1950 4200
+Connection ~ 2150 4200
+Connection ~ 1750 4200
+Wire Wire Line
+	2150 4200 1950 4200
+Wire Wire Line
+	2550 4000 2550 3900
+Wire Wire Line
+	2150 4000 2150 3900
+Wire Wire Line
+	1750 4000 1750 3900
+Wire Wire Line
+	1350 4000 1350 3900
+$Comp
+L Device:Fuse_Small F18
+U 1 1 5CFF66C8
+P 2550 4100
+F 0 "F18" V 2550 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 2595 4148 50  0001 L CNN
+F 2 "1048:fuse" H 2550 4100 50  0001 C CNN
+F 3 "~" H 2550 4100 50  0001 C CNN
+	1    2550 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F13
+U 1 1 5CFF66BE
+P 2150 4100
+F 0 "F13" V 2150 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 2195 4148 50  0001 L CNN
+F 2 "1048:fuse" H 2150 4100 50  0001 C CNN
+F 3 "~" H 2150 4100 50  0001 C CNN
+	1    2150 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F8
+U 1 1 5CFF66B4
+P 1750 4100
+F 0 "F8" V 1750 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 1795 4148 50  0001 L CNN
+F 2 "1048:fuse" H 1750 4100 50  0001 C CNN
+F 3 "~" H 1750 4100 50  0001 C CNN
+	1    1750 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F3
+U 1 1 5CFF66AA
+P 1350 4100
+F 0 "F3" V 1350 4148 50  0000 L CNN
+F 1 "Fuse_Small" V 1395 4148 50  0001 L CNN
+F 2 "1048:fuse" H 1350 4100 50  0001 C CNN
+F 3 "~" H 1350 4100 50  0001 C CNN
+	1    1350 4100
+	0    1    1    0   
+$EndComp
+Connection ~ 1950 5100
+Connection ~ 1950 5250
+Wire Wire Line
+	1950 5250 1950 5400
+Connection ~ 1950 5400
+Connection ~ 2150 6000
+Connection ~ 1750 6000
+$Comp
+L power:Earth #PWR0101
+U 1 1 5CFCA7A7
+P 1950 6250
+F 0 "#PWR0101" H 1950 6000 50  0001 C CNN
+F 1 "Earth" H 1950 6100 50  0001 C CNN
+F 2 "" H 1950 6250 50  0001 C CNN
+F 3 "~" H 1950 6250 50  0001 C CNN
+	1    1950 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Fuse_Small F20
+U 1 1 5CFC9EBE
+P 2550 5900
+F 0 "F20" V 2550 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 2595 5948 50  0001 L CNN
+F 2 "1048:fuse" H 2550 5900 50  0001 C CNN
+F 3 "~" H 2550 5900 50  0001 C CNN
+	1    2550 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F15
+U 1 1 5CFC99A6
+P 2150 5900
+F 0 "F15" V 2150 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 2195 5948 50  0001 L CNN
+F 2 "1048:fuse" H 2150 5900 50  0001 C CNN
+F 3 "~" H 2150 5900 50  0001 C CNN
+	1    2150 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F10
+U 1 1 5CFC8FBB
+P 1750 5900
+F 0 "F10" V 1750 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 1795 5948 50  0001 L CNN
+F 2 "1048:fuse" H 1750 5900 50  0001 C CNN
+F 3 "~" H 1750 5900 50  0001 C CNN
+	1    1750 5900
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F5
+U 1 1 5CFC70C5
+P 1350 5900
+F 0 "F5" V 1350 5948 50  0000 L CNN
+F 1 "Fuse_Small" V 1395 5948 50  0001 L CNN
+F 2 "1048:fuse" H 1350 5900 50  0001 C CNN
+F 3 "~" H 1350 5900 50  0001 C CNN
+	1    1350 5900
+	0    1    1    0   
+$EndComp
+Connection ~ 1950 6150
+Wire Wire Line
+	1950 6000 1950 6050
+Wire Wire Line
+	1950 6150 1950 6250
+$Comp
+L Connector:Conn_01x01_Male J6
+U 1 1 5CFFA13D
+P 1750 6150
+F 0 "J6" H 1650 6150 50  0001 C CNN
+F 1 "0V" H 1650 6150 50  0000 C CNN
+F 2 "1048:hole" H 1750 6150 50  0001 C CNN
+F 3 "~" H 1750 6150 50  0001 C CNN
+	1    1750 6150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 5700 1350 5800
+Wire Wire Line
+	2550 5700 2550 5800
+Wire Wire Line
+	1350 3600 1450 3600
+Wire Wire Line
+	2150 3600 2300 3600
+Wire Wire Line
+	1950 5400 2150 5400
+Connection ~ 2150 5400
+$Comp
+L batter_2cell:Battery_Cell BT10
+U 1 1 5D18628F
+P 2150 5600
+F 0 "BT10" H 2668 5696 50  0000 L CNN
+F 1 "Battery_Cell" H 2668 5605 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 2150 5660 50  0001 C CNN
+F 3 "~" V 2150 5660 50  0001 C CNN
+	1    2150 5600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1350 5400 1450 5400
+Wire Wire Line
+	2150 5400 2300 5400
+Wire Wire Line
+	2150 6000 2550 6000
+Wire Wire Line
+	1350 6000 1600 6000
+Wire Wire Line
+	1500 5650 1450 5650
+Wire Wire Line
+	1450 5650 1450 5400
+Connection ~ 1450 5400
+Wire Wire Line
+	1450 5400 1500 5400
+Wire Wire Line
+	1500 5450 1500 5400
+Connection ~ 1500 5400
+Wire Wire Line
+	1500 5400 1750 5400
+Wire Wire Line
+	1550 5450 1550 5300
+Wire Wire Line
+	1550 5300 1250 5300
+Wire Wire Line
+	1250 5300 1250 6050
+Wire Wire Line
+	1250 6050 1650 6050
+Connection ~ 1950 6050
+Wire Wire Line
+	1950 6050 1950 6150
+Wire Wire Line
+	1600 5450 1650 5450
+Wire Wire Line
+	1650 5450 1650 6050
+Connection ~ 1650 6050
+Wire Wire Line
+	1650 6050 1950 6050
+Wire Wire Line
+	1600 5650 1600 6000
+Connection ~ 1600 6000
+Wire Wire Line
+	1600 6000 1750 6000
+Wire Wire Line
+	2300 5450 2300 5400
+Connection ~ 2300 5400
+Wire Wire Line
+	2300 5400 2350 5400
+Wire Wire Line
+	2300 5650 2300 6050
+Wire Wire Line
+	2300 6050 1950 6050
+Wire Wire Line
+	2350 5450 2350 5400
+Connection ~ 2350 5400
+Wire Wire Line
+	1950 4200 1950 4350
+Wire Wire Line
+	1950 4500 1950 4350
+Connection ~ 1950 4350
+$Comp
+L Connector:Conn_01x01_Male J4
+U 1 1 5D00C0FB
+P 1750 4350
+F 0 "J4" H 1650 4350 50  0001 C CNN
+F 1 "7.4V" H 1650 4350 50  0000 C CNN
+F 2 "1048:hole" H 1750 4350 50  0001 C CNN
+F 3 "~" H 1750 4350 50  0001 C CNN
+	1    1750 4350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1950 5250 1950 5150
+Wire Wire Line
+	2550 5100 2400 5100
+$Comp
+L Device:Fuse_Small F4
+U 1 1 5CFDA008
+P 1350 5000
+F 0 "F4" V 1350 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 1395 5048 50  0001 L CNN
+F 2 "1048:fuse" H 1350 5000 50  0001 C CNN
+F 3 "~" H 1350 5000 50  0001 C CNN
+	1    1350 5000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1750 5100 1950 5100
+Connection ~ 1750 5100
+$Comp
+L Device:Fuse_Small F9
+U 1 1 5CFDA012
+P 1750 5000
+F 0 "F9" V 1750 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 1795 5048 50  0001 L CNN
+F 2 "1048:fuse" H 1750 5000 50  0001 C CNN
+F 3 "~" H 1750 5000 50  0001 C CNN
+	1    1750 5000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1950 5100 2150 5100
+Connection ~ 2150 5100
+$Comp
+L Device:Fuse_Small F14
+U 1 1 5CFDA01C
+P 2150 5000
+F 0 "F14" V 2150 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 2195 5048 50  0001 L CNN
+F 2 "1048:fuse" H 2150 5000 50  0001 C CNN
+F 3 "~" H 2150 5000 50  0001 C CNN
+	1    2150 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:Fuse_Small F19
+U 1 1 5CFDA026
+P 2550 5000
+F 0 "F19" V 2550 5048 50  0000 L CNN
+F 1 "Fuse_Small" V 2595 5048 50  0001 L CNN
+F 2 "1048:fuse" H 2550 5000 50  0001 C CNN
+F 3 "~" H 2550 5000 50  0001 C CNN
+	1    2550 5000
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1350 4900 1350 4800
+Wire Wire Line
+	1750 4900 1750 4800
+Wire Wire Line
+	2150 4900 2150 4800
+Wire Wire Line
+	2550 4900 2550 4800
+Wire Wire Line
+	1350 4500 1450 4500
+Wire Wire Line
+	1750 4500 1950 4500
+Connection ~ 1750 4500
+$Comp
+L batter_2cell:Battery_Cell BT4
+U 1 1 5D19A023
+P 1350 4700
+F 0 "BT4" H 1868 4796 50  0000 L CNN
+F 1 "Battery_Cell" H 1868 4705 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 1350 4760 50  0001 C CNN
+F 3 "~" V 1350 4760 50  0001 C CNN
+	1    1350 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2150 4500 2300 4500
+Wire Wire Line
+	1950 4500 2150 4500
+Connection ~ 2150 4500
+$Comp
+L batter_2cell:Battery_Cell BT9
+U 1 1 5D19A02D
+P 2150 4700
+F 0 "BT9" H 2668 4796 50  0000 L CNN
+F 1 "Battery_Cell" H 2668 4705 50  0000 L CNN
+F 2 "1048:2cell_dual_holder_longer" V 2150 4760 50  0001 C CNN
+F 3 "~" V 2150 4760 50  0001 C CNN
+	1    2150 4700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2400 5450 2400 5400
+Wire Wire Line
+	2350 5400 2400 5400
+Wire Wire Line
+	2400 5400 2550 5400
+Connection ~ 2400 5400
+Wire Wire Line
+	2400 5650 2400 6050
+Wire Wire Line
+	2400 6050 2300 6050
+Connection ~ 2300 6050
+Wire Wire Line
+	1500 4750 1450 4750
+Wire Wire Line
+	1450 4750 1450 4500
+Connection ~ 1450 4500
+Wire Wire Line
+	1450 4500 1500 4500
+Wire Wire Line
+	1500 4550 1500 4500
+Connection ~ 1500 4500
+Wire Wire Line
+	1500 4500 1750 4500
+Wire Wire Line
+	1550 4550 1550 4400
+Wire Wire Line
+	1550 4400 1200 4400
+Wire Wire Line
+	1200 4400 1200 5150
+Wire Wire Line
+	1200 5150 1600 5150
+Connection ~ 1950 5150
+Wire Wire Line
+	1950 5150 1950 5100
+Wire Wire Line
+	1600 4750 1600 5150
+Connection ~ 1600 5150
+Wire Wire Line
+	1600 5150 1950 5150
+Wire Wire Line
+	1600 4550 1650 4550
+Wire Wire Line
+	1650 4550 1650 5100
+Connection ~ 1650 5100
+Wire Wire Line
+	1650 5100 1750 5100
+Wire Wire Line
+	2300 4550 2300 4500
+Connection ~ 2300 4500
+Wire Wire Line
+	2300 4500 2350 4500
+Wire Wire Line
+	2350 4500 2350 4550
+Connection ~ 2350 4500
+Wire Wire Line
+	2350 4500 2400 4500
+Wire Wire Line
+	2400 4550 2400 4500
+Connection ~ 2400 4500
+Wire Wire Line
+	2400 4500 2550 4500
+Wire Wire Line
+	2400 4750 2400 5100
+Connection ~ 2400 5100
+Wire Wire Line
+	2150 5100 2300 5100
+Wire Wire Line
+	2300 4750 2300 5100
+Connection ~ 2300 5100
+Wire Wire Line
+	2300 5100 2400 5100
+Wire Wire Line
+	1350 5100 1650 5100
+Wire Wire Line
+	1500 3650 1500 3600
+Connection ~ 1500 3600
+Wire Wire Line
+	2300 3650 2300 3600
+Connection ~ 2300 3600
+Wire Wire Line
+	2300 3600 2350 3600
+Wire Wire Line
+	2350 3650 2350 3600
+Connection ~ 2350 3600
+Wire Wire Line
+	2350 3600 2400 3600
+Wire Wire Line
+	2400 3650 2400 3600
+Connection ~ 2400 3600
+Wire Wire Line
+	2400 3600 2550 3600
+Wire Wire Line
+	2150 4200 2300 4200
+Wire Wire Line
+	1350 4200 1600 4200
+Wire Wire Line
+	1600 3650 1650 3650
+Wire Wire Line
+	1650 3650 1650 4200
+Connection ~ 1650 4200
+Wire Wire Line
+	1650 4200 1750 4200
+Wire Wire Line
+	1600 3850 1600 4200
+Connection ~ 1600 4200
+Wire Wire Line
+	1600 4200 1650 4200
+Wire Wire Line
+	1500 3850 1450 3850
+Wire Wire Line
+	1450 3850 1450 3600
+Connection ~ 1450 3600
+Wire Wire Line
+	1450 3600 1500 3600
+Wire Wire Line
+	1500 3600 1750 3600
+Wire Wire Line
+	1550 3650 1550 3550
+Wire Wire Line
+	1550 3550 1250 3550
+Wire Wire Line
+	1250 3550 1250 4200
+Wire Wire Line
+	1250 4200 1350 4200
+Connection ~ 1350 4200
+Wire Wire Line
+	2300 3850 2300 4200
+Connection ~ 2300 4200
+Wire Wire Line
+	2300 4200 2400 4200
+Wire Wire Line
+	2400 3850 2400 4200
+Connection ~ 2400 4200
+Wire Wire Line
+	2400 4200 2550 4200
+Wire Wire Line
+	1600 2750 1650 2750
+Wire Wire Line
+	1650 2750 1650 3300
+Connection ~ 1650 3300
+Wire Wire Line
+	1650 3300 1750 3300
+Wire Wire Line
+	1600 2950 1600 3300
+Connection ~ 1600 3300
+Wire Wire Line
+	1600 3300 1650 3300
+Wire Wire Line
+	1500 2950 1450 2950
+Wire Wire Line
+	1450 2950 1450 2700
+Connection ~ 1450 2700
+Wire Wire Line
+	1450 2700 1350 2700
+Wire Wire Line
+	1500 2750 1500 2700
+Connection ~ 1500 2700
+Wire Wire Line
+	1500 2700 1450 2700
+Wire Wire Line
+	1550 2750 1550 2650
+Wire Wire Line
+	1550 2650 1250 2650
+Wire Wire Line
+	1250 2650 1250 3300
+Wire Wire Line
+	1250 3300 1350 3300
+Connection ~ 1350 3300
+Wire Wire Line
+	2300 2750 2300 2700
+Connection ~ 2300 2700
+Wire Wire Line
+	2300 2700 2150 2700
+Wire Wire Line
+	2350 2750 2350 2700
+Connection ~ 2350 2700
+Wire Wire Line
+	2350 2700 2300 2700
+Wire Wire Line
+	2400 2750 2400 2700
+Connection ~ 2400 2700
+Wire Wire Line
+	2400 2700 2350 2700
+Wire Wire Line
+	2300 2950 2300 3300
+Wire Wire Line
+	2150 3300 2300 3300
+Connection ~ 2300 3300
+Wire Wire Line
+	2300 3300 2400 3300
+Wire Wire Line
+	2400 2950 2400 3300
+Connection ~ 2400 3300
+Wire Wire Line
+	2400 3300 2550 3300
+Wire Wire Line
+	1500 1850 1500 1800
+Connection ~ 1500 1800
+Wire Wire Line
+	1500 1800 1450 1800
+Wire Wire Line
+	1300 1750 1300 2400
+Wire Wire Line
+	1300 2400 1350 2400
+Connection ~ 1350 2400
+Wire Wire Line
+	1500 1800 1750 1800
+Wire Wire Line
+	1600 1850 1650 1850
+Wire Wire Line
+	1650 1850 1650 2050
+Connection ~ 1650 2400
+Wire Wire Line
+	1650 2400 1750 2400
+Wire Wire Line
+	1650 2050 1600 2050
+Connection ~ 1650 2050
+Wire Wire Line
+	1650 2050 1650 2400
+Wire Wire Line
+	1550 1850 1550 1750
+Wire Wire Line
+	1550 1750 1300 1750
+Wire Wire Line
+	1500 2050 1450 2050
+Wire Wire Line
+	1450 2050 1450 1800
+Connection ~ 1450 1800
+Wire Wire Line
+	1450 1800 1350 1800
+Wire Wire Line
+	2300 1850 2300 1800
+Connection ~ 2300 1800
+Wire Wire Line
+	2300 1800 2150 1800
+Wire Wire Line
+	2350 1850 2350 1800
+Connection ~ 2350 1800
+Wire Wire Line
+	2350 1800 2300 1800
+Wire Wire Line
+	2400 1850 2400 1800
+Connection ~ 2400 1800
+Wire Wire Line
+	2400 1800 2350 1800
+Wire Wire Line
+	2300 2050 2300 2400
+Wire Wire Line
+	2150 2400 2300 2400
+Connection ~ 2300 2400
+Wire Wire Line
+	2300 2400 2400 2400
+Wire Wire Line
+	2400 2050 2400 2400
+Connection ~ 2400 2400
+Wire Wire Line
+	2400 2400 2550 2400
+Wire Wire Line
+	4000 1850 4000 1750
+Wire Wire Line
+	4000 1750 3700 1750
+Wire Wire Line
+	3700 1750 3700 2400
+Wire Wire Line
+	3700 2400 3800 2400
+Connection ~ 3800 2400
+Wire Wire Line
+	4050 1850 4100 1850
+Wire Wire Line
+	4100 1850 4100 2050
+Connection ~ 4100 2400
+Wire Wire Line
+	4100 2400 4200 2400
+Wire Wire Line
+	4050 2050 4100 2050
+Connection ~ 4100 2050
+Wire Wire Line
+	4100 2050 4100 2400
+Wire Wire Line
+	3950 2050 3900 2050
+Wire Wire Line
+	3900 2050 3900 1800
+Connection ~ 3900 1800
+Wire Wire Line
+	3900 1800 3950 1800
+Wire Wire Line
+	3950 1850 3950 1800
+Connection ~ 3950 1800
+Wire Wire Line
+	3950 1800 4200 1800
+Wire Wire Line
+	4750 1850 4750 1800
+Connection ~ 4750 1800
+Wire Wire Line
+	4750 1800 4600 1800
+Wire Wire Line
+	4800 1850 4800 1800
+Connection ~ 4800 1800
+Wire Wire Line
+	4800 1800 4750 1800
+Wire Wire Line
+	4850 1850 4850 1800
+Connection ~ 4850 1800
+Wire Wire Line
+	4850 1800 4800 1800
+Wire Wire Line
+	4750 2050 4750 2400
+Connection ~ 4750 2400
+Wire Wire Line
+	4750 2400 4600 2400
+Wire Wire Line
+	4850 2050 4850 2400
+Connection ~ 4850 2400
+Wire Wire Line
+	4850 2400 4750 2400
+Wire Wire Line
+	4000 2750 4000 2650
+Wire Wire Line
+	4000 2650 3650 2650
+Wire Wire Line
+	3650 2650 3650 3300
+Wire Wire Line
+	3650 3300 3800 3300
+Connection ~ 3800 3300
+Wire Wire Line
+	3950 2950 3900 2950
+Wire Wire Line
+	3900 2950 3900 2700
+Connection ~ 3900 2700
+Wire Wire Line
+	3900 2700 3950 2700
+Wire Wire Line
+	4050 2750 4100 2750
+Wire Wire Line
+	4100 2750 4100 2950
+Connection ~ 4100 3300
+Wire Wire Line
+	4100 3300 4200 3300
+Wire Wire Line
+	4050 2950 4100 2950
+Connection ~ 4100 2950
+Wire Wire Line
+	4100 2950 4100 3300
+Wire Wire Line
+	3950 2750 3950 2700
+Connection ~ 3950 2700
+Wire Wire Line
+	3950 2700 4200 2700
+Wire Wire Line
+	4750 2750 4750 2700
+Connection ~ 4750 2700
+Wire Wire Line
+	4750 2700 4600 2700
+Wire Wire Line
+	4800 2750 4800 2700
+Connection ~ 4800 2700
+Wire Wire Line
+	4800 2700 4750 2700
+Wire Wire Line
+	4850 2750 4850 2700
+Connection ~ 4850 2700
+Wire Wire Line
+	4850 2700 4800 2700
+Connection ~ 4850 3300
+Wire Wire Line
+	4850 3300 4600 3300
+Wire Wire Line
+	4850 2950 4850 3300
+Wire Wire Line
+	4750 2950 4850 2950
+Connection ~ 4850 2950
+Wire Wire Line
+	4200 4500 3950 4500
+Wire Wire Line
+	4000 4550 4000 4450
+Wire Wire Line
+	4000 4450 3700 4450
+Wire Wire Line
+	3700 4450 3700 5100
+Wire Wire Line
+	3700 5100 3800 5100
+Connection ~ 3800 5100
+Wire Wire Line
+	3950 4750 3900 4750
+Wire Wire Line
+	3900 4750 3900 4500
+Connection ~ 3900 4500
+Wire Wire Line
+	3900 4500 3800 4500
+Wire Wire Line
+	3950 4550 3950 4500
+Connection ~ 3950 4500
+Wire Wire Line
+	3950 4500 3900 4500
+Wire Wire Line
+	4050 4550 4100 4550
+Wire Wire Line
+	4100 4550 4100 4750
+Connection ~ 4100 5100
+Wire Wire Line
+	4100 5100 4200 5100
+Wire Wire Line
+	4050 4750 4100 4750
+Connection ~ 4100 4750
+Wire Wire Line
+	4100 4750 4100 5100
+Wire Wire Line
+	4750 4550 4750 4500
+Connection ~ 4750 4500
+Wire Wire Line
+	4750 4500 4800 4500
+Wire Wire Line
+	4800 4550 4800 4500
+Connection ~ 4800 4500
+Wire Wire Line
+	4800 4500 4850 4500
+Wire Wire Line
+	4850 4550 4850 4500
+Connection ~ 4850 4500
+Wire Wire Line
+	4850 4500 5000 4500
+Wire Wire Line
+	4750 4750 4750 5100
+Connection ~ 4750 5100
+Wire Wire Line
+	4750 5100 4600 5100
+Wire Wire Line
+	4850 4750 4850 5100
+Connection ~ 4850 5100
+Wire Wire Line
+	4850 5100 4750 5100
+Wire Wire Line
+	4000 5450 4000 5350
+Wire Wire Line
+	4000 5350 3700 5350
+Wire Wire Line
+	3700 5350 3700 6000
+Wire Wire Line
+	3700 6000 3800 6000
+Connection ~ 3800 6000
+Wire Wire Line
+	3950 5450 3950 5400
+Connection ~ 3950 5400
+Wire Wire Line
+	3950 5400 4200 5400
+Wire Wire Line
+	3950 5650 3900 5650
+Wire Wire Line
+	3900 5650 3900 5400
+Connection ~ 3900 5400
+Wire Wire Line
+	3900 5400 3950 5400
+Wire Wire Line
+	4050 5450 4100 5450
+Wire Wire Line
+	4100 5450 4100 5650
+Connection ~ 4100 6000
+Wire Wire Line
+	4100 6000 4200 6000
+Wire Wire Line
+	4050 5650 4100 5650
+Connection ~ 4100 5650
+Wire Wire Line
+	4100 5650 4100 6000
+Wire Wire Line
+	4750 5450 4750 5400
+Connection ~ 4750 5400
+Wire Wire Line
+	4750 5400 4600 5400
+Wire Wire Line
+	4800 5450 4800 5400
+Connection ~ 4800 5400
+Wire Wire Line
+	4800 5400 4750 5400
+Wire Wire Line
+	4850 5450 4850 5400
+Connection ~ 4850 5400
+Wire Wire Line
+	4850 5400 4800 5400
+Wire Wire Line
+	4750 5650 4750 6000
+Connection ~ 4750 6000
+Wire Wire Line
+	4750 6000 4600 6000
+Wire Wire Line
+	4850 5650 4850 6000
+Connection ~ 4850 6000
+Wire Wire Line
+	4850 6000 4750 6000
+Wire Wire Line
+	6400 5450 6400 5350
+Wire Wire Line
+	6400 5350 6100 5350
+Wire Wire Line
+	6100 5350 6100 6000
+Wire Wire Line
+	6100 6000 6200 6000
+Connection ~ 6200 6000
+Wire Wire Line
+	6350 5650 6300 5650
+Wire Wire Line
+	6300 5650 6300 5400
+Connection ~ 6300 5400
+Wire Wire Line
+	6300 5400 6350 5400
+Wire Wire Line
+	6350 5450 6350 5400
+Connection ~ 6350 5400
+Wire Wire Line
+	6350 5400 6600 5400
+Wire Wire Line
+	6450 5450 6500 5450
+Wire Wire Line
+	6500 5450 6500 5650
+Connection ~ 6500 6000
+Wire Wire Line
+	6500 6000 6600 6000
+Wire Wire Line
+	6450 5650 6500 5650
+Connection ~ 6500 5650
+Wire Wire Line
+	6500 5650 6500 6000
+Wire Wire Line
+	7150 5450 7150 5400
+Connection ~ 7150 5400
+Wire Wire Line
+	7150 5400 7000 5400
+Wire Wire Line
+	7200 5450 7200 5400
+Connection ~ 7200 5400
+Wire Wire Line
+	7200 5400 7150 5400
+Wire Wire Line
+	7250 5450 7250 5400
+Connection ~ 7250 5400
+Wire Wire Line
+	7250 5400 7200 5400
+Wire Wire Line
+	7150 5650 7150 5700
+Connection ~ 7150 6000
+Wire Wire Line
+	7150 6000 7000 6000
+Wire Wire Line
+	7250 5650 7250 5700
+Wire Wire Line
+	7250 5700 7150 5700
+Connection ~ 7150 5700
+Wire Wire Line
+	7150 5700 7150 6000
+Wire Wire Line
+	6400 4550 6400 4450
+Wire Wire Line
+	6400 4450 6100 4450
+Wire Wire Line
+	6100 4450 6100 5100
+Wire Wire Line
+	6100 5100 6200 5100
+Connection ~ 6200 5100
+Wire Wire Line
+	6350 4550 6350 4500
+Connection ~ 6350 4500
+Wire Wire Line
+	6350 4500 6600 4500
+Wire Wire Line
+	6350 4750 6300 4750
+Wire Wire Line
+	6300 4750 6300 4500
+Connection ~ 6300 4500
+Wire Wire Line
+	6300 4500 6350 4500
+Wire Wire Line
+	6450 4550 6500 4550
+Wire Wire Line
+	6500 4550 6500 4750
+Connection ~ 6500 5100
+Wire Wire Line
+	6500 5100 6600 5100
+Wire Wire Line
+	6450 4750 6500 4750
+Connection ~ 6500 4750
+Wire Wire Line
+	6500 4750 6500 5100
+Wire Wire Line
+	7150 4550 7150 4500
+Connection ~ 7150 4500
+Wire Wire Line
+	7150 4500 7000 4500
+Wire Wire Line
+	7200 4550 7200 4500
+Connection ~ 7200 4500
+Wire Wire Line
+	7200 4500 7150 4500
+Wire Wire Line
+	7250 4550 7250 4500
+Connection ~ 7250 4500
+Wire Wire Line
+	7250 4500 7200 4500
+Wire Wire Line
+	7150 4750 7150 5100
+Connection ~ 7150 5100
+Wire Wire Line
+	7150 5100 7000 5100
+Wire Wire Line
+	7250 4750 7250 5100
+Connection ~ 7250 5100
+Wire Wire Line
+	7250 5100 7150 5100
+Wire Wire Line
+	6400 3650 6400 3550
+Wire Wire Line
+	6400 3550 6100 3550
+Wire Wire Line
+	6100 3550 6100 4200
+Wire Wire Line
+	6100 4200 6200 4200
+Connection ~ 6200 4200
+Wire Wire Line
+	6350 3850 6300 3850
+Wire Wire Line
+	6300 3850 6300 3600
+Connection ~ 6300 3600
+Wire Wire Line
+	6300 3600 6350 3600
+Wire Wire Line
+	6350 3650 6350 3600
+Connection ~ 6350 3600
+Wire Wire Line
+	6350 3600 6600 3600
+Wire Wire Line
+	6450 3650 6500 3650
+Wire Wire Line
+	6500 3650 6500 3850
+Connection ~ 6500 4200
+Wire Wire Line
+	6500 4200 6600 4200
+Wire Wire Line
+	6450 3850 6500 3850
+Connection ~ 6500 3850
+Wire Wire Line
+	6500 3850 6500 4200
+Wire Wire Line
+	7150 3650 7150 3600
+Connection ~ 7150 3600
+Wire Wire Line
+	7150 3600 7000 3600
+Wire Wire Line
+	7200 3650 7200 3600
+Connection ~ 7200 3600
+Wire Wire Line
+	7200 3600 7150 3600
+Wire Wire Line
+	7250 3650 7250 3600
+Connection ~ 7250 3600
+Wire Wire Line
+	7250 3600 7200 3600
+Wire Wire Line
+	7150 3850 7150 4200
+Connection ~ 7150 4200
+Wire Wire Line
+	7150 4200 7000 4200
+Wire Wire Line
+	7250 3850 7250 4200
+Connection ~ 7250 4200
+Wire Wire Line
+	7250 4200 7150 4200
+Wire Wire Line
+	6400 2750 6400 2650
+Wire Wire Line
+	6400 2650 6100 2650
+Wire Wire Line
+	6100 2650 6100 3300
+Wire Wire Line
+	6100 3300 6200 3300
+Connection ~ 6200 3300
+Wire Wire Line
+	6350 2750 6350 2700
+Connection ~ 6350 2700
+Wire Wire Line
+	6350 2700 6600 2700
+Wire Wire Line
+	6350 2950 6300 2950
+Wire Wire Line
+	6300 2950 6300 2700
+Connection ~ 6300 2700
+Wire Wire Line
+	6300 2700 6350 2700
+Wire Wire Line
+	6450 2750 6500 2750
+Wire Wire Line
+	6500 2750 6500 2950
+Connection ~ 6500 3300
+Wire Wire Line
+	6500 3300 6600 3300
+Wire Wire Line
+	6450 2950 6500 2950
+Connection ~ 6500 2950
+Wire Wire Line
+	6500 2950 6500 3300
+Wire Wire Line
+	7150 2750 7150 2700
+Connection ~ 7150 2700
+Wire Wire Line
+	7150 2700 7000 2700
+Wire Wire Line
+	7200 2750 7200 2700
+Connection ~ 7200 2700
+Wire Wire Line
+	7200 2700 7150 2700
+Wire Wire Line
+	7250 2750 7250 2700
+Connection ~ 7250 2700
+Wire Wire Line
+	7250 2700 7200 2700
+Wire Wire Line
+	7150 2950 7150 3300
+Connection ~ 7150 3300
+Wire Wire Line
+	7150 3300 7000 3300
+Connection ~ 7250 3300
+Wire Wire Line
+	7250 3300 7150 3300
+Wire Wire Line
+	7250 2950 7250 3300
+Wire Wire Line
+	6200 1800 6300 1800
+Wire Wire Line
+	6400 1850 6400 1750
+Wire Wire Line
+	6400 1750 6100 1750
+Wire Wire Line
+	6100 1750 6100 2400
+Wire Wire Line
+	6100 2400 6200 2400
+Connection ~ 6200 2400
+Wire Wire Line
+	6350 1850 6350 1800
+Connection ~ 6350 1800
+Wire Wire Line
+	6350 1800 6600 1800
+Wire Wire Line
+	6350 2050 6300 2050
+Wire Wire Line
+	6300 2050 6300 1800
+Connection ~ 6300 1800
+Wire Wire Line
+	6300 1800 6350 1800
+Wire Wire Line
+	6450 1850 6500 1850
+Wire Wire Line
+	6500 1850 6500 2050
+Connection ~ 6500 2400
+Wire Wire Line
+	6500 2400 6600 2400
+Wire Wire Line
+	6450 2050 6500 2050
+Connection ~ 6500 2050
+Wire Wire Line
+	6500 2050 6500 2400
+Wire Wire Line
+	7150 1850 7150 1800
+Connection ~ 7150 1800
+Wire Wire Line
+	7150 1800 7000 1800
+Wire Wire Line
+	7200 1850 7200 1800
+Connection ~ 7200 1800
+Wire Wire Line
+	7200 1800 7150 1800
+Wire Wire Line
+	7250 1850 7250 1800
+Connection ~ 7250 1800
+Wire Wire Line
+	7250 1800 7200 1800
+Wire Wire Line
+	7150 2050 7150 2400
+Wire Wire Line
+	7000 2400 7150 2400
+Connection ~ 7150 2400
+Wire Wire Line
+	7150 2400 7250 2400
+Wire Wire Line
+	7250 2050 7250 2400
+Connection ~ 7250 2400
+Wire Wire Line
+	7250 2400 7400 2400
+$EndSCHEMATC
