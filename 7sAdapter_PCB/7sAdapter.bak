@@ -1,0 +1,208 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Conn_01x01_Male J13
+U 1 1 5D01DF8D
+P 2500 1550
+F 0 "J13" H 2400 1550 50  0001 C CNN
+F 1 "51.8V" H 2350 1550 50  0000 C CNN
+F 2 "BMS:m4_hole" H 2500 1550 50  0001 C CNN
+F 3 "~" H 2500 1550 50  0001 C CNN
+	1    2500 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J16
+U 1 1 5D018A08
+P 2500 2150
+F 0 "J16" H 2400 2150 50  0001 C CNN
+F 1 "40.7V" H 2350 2150 50  0000 C CNN
+F 2 "BMS:m4_hole" H 2500 2150 50  0001 C CNN
+F 3 "~" H 2500 2150 50  0001 C CNN
+	1    2500 2150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J8
+U 1 1 5D014831
+P 2500 2550
+F 0 "J8" H 2400 2550 50  0001 C CNN
+F 1 "33.3V" H 2350 2550 50  0000 C CNN
+F 2 "BMS:m4_hole" H 2500 2550 50  0001 C CNN
+F 3 "~" H 2500 2550 50  0001 C CNN
+	1    2500 2550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J9
+U 1 1 5D013BFD
+P 2500 2750
+F 0 "J9" H 2400 2750 50  0001 C CNN
+F 1 "29.6V" H 2350 2750 50  0000 C CNN
+F 2 "BMS:m4_hole" H 2500 2750 50  0001 C CNN
+F 3 "~" H 2500 2750 50  0001 C CNN
+	1    2500 2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J10
+U 1 1 5D01304F
+P 1750 1350
+F 0 "J10" H 1650 1350 50  0001 C CNN
+F 1 "25.9V" H 1600 1350 50  0000 C CNN
+F 2 "BMS:m4_hole" H 1750 1350 50  0001 C CNN
+F 3 "~" H 1750 1350 50  0001 C CNN
+	1    1750 1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J11
+U 1 1 5D0119B9
+P 1750 1550
+F 0 "J11" H 1650 1550 50  0001 C CNN
+F 1 "22.2V" H 1600 1550 50  0000 C CNN
+F 2 "BMS:m4_hole" H 1750 1550 50  0001 C CNN
+F 3 "~" H 1750 1550 50  0001 C CNN
+	1    1750 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 5D010EFC
+P 1750 1750
+F 0 "J1" H 1650 1750 50  0001 C CNN
+F 1 "18.5V" H 1600 1750 50  0000 C CNN
+F 2 "BMS:m4_hole" H 1750 1750 50  0001 C CNN
+F 3 "~" H 1750 1750 50  0001 C CNN
+	1    1750 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J3
+U 1 1 5D00C973
+P 1750 2150
+F 0 "J3" H 1650 2150 50  0001 C CNN
+F 1 "11.1V" H 1600 2150 50  0000 C CNN
+F 2 "BMS:m4_hole" H 1750 2150 50  0001 C CNN
+F 3 "~" H 1750 2150 50  0001 C CNN
+	1    1750 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J5
+U 1 1 5D00B6CE
+P 1750 2550
+F 0 "J5" H 1650 2550 50  0001 C CNN
+F 1 "3.7V" H 1650 2550 50  0000 C CNN
+F 2 "BMS:m4_hole" H 1750 2550 50  0001 C CNN
+F 3 "~" H 1750 2550 50  0001 C CNN
+	1    1750 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J6
+U 1 1 5CFFA13D
+P 1750 2750
+F 0 "J6" H 1650 2750 50  0001 C CNN
+F 1 "0V" H 1650 2750 50  0000 C CNN
+F 2 "BMS:m4_hole" H 1750 2750 50  0001 C CNN
+F 3 "~" H 1750 2750 50  0001 C CNN
+	1    1750 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 5D00EE0C
+P 1750 1950
+F 0 "J2" H 1650 1950 50  0001 C CNN
+F 1 "14.8V" H 1600 1950 50  0000 C CNN
+F 2 "BMS:m4_hole" H 1750 1950 50  0001 C CNN
+F 3 "~" H 1750 1950 50  0001 C CNN
+	1    1750 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J4
+U 1 1 5D00C0FB
+P 1750 2350
+F 0 "J4" H 1650 2350 50  0001 C CNN
+F 1 "7.4V" H 1650 2350 50  0000 C CNN
+F 2 "BMS:m4_hole" H 1750 2350 50  0001 C CNN
+F 3 "~" H 1750 2350 50  0001 C CNN
+	1    1750 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J15
+U 1 1 5D01A37F
+P 2500 1950
+F 0 "J15" H 2400 1950 50  0001 C CNN
+F 1 "44.4V" H 2350 1950 50  0000 C CNN
+F 2 "BMS:m4_hole" H 2500 1950 50  0001 C CNN
+F 3 "~" H 2500 1950 50  0001 C CNN
+	1    2500 1950
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J14
+U 1 1 5D01AEE0
+P 2500 1750
+F 0 "J14" H 2400 1750 50  0001 C CNN
+F 1 "48.1V" H 2350 1750 50  0000 C CNN
+F 2 "BMS:m4_hole" H 2500 1750 50  0001 C CNN
+F 3 "~" H 2500 1750 50  0001 C CNN
+	1    2500 1750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J12
+U 1 1 5D01E523
+P 2500 1350
+F 0 "J12" H 2400 1350 50  0001 C CNN
+F 1 "55.5V" H 2350 1350 50  0000 C CNN
+F 2 "BMS:m4_hole" H 2500 1350 50  0001 C CNN
+F 3 "~" H 2500 1350 50  0001 C CNN
+	1    2500 1350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J7
+U 1 1 5D99B96A
+P 2500 2350
+F 0 "J7" H 2400 2350 50  0001 C CNN
+F 1 "37V" H 2350 2350 50  0000 C CNN
+F 2 "BMS:m4_hole" H 2500 2350 50  0001 C CNN
+F 3 "~" H 2500 2350 50  0001 C CNN
+	1    2500 2350
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1950 1350 2300 1350
+Wire Wire Line
+	1950 1550 2300 1550
+Wire Wire Line
+	1950 1750 2300 1750
+Wire Wire Line
+	1950 1950 2300 1950
+Wire Wire Line
+	1950 2150 2300 2150
+Wire Wire Line
+	1950 2350 2300 2350
+Wire Wire Line
+	1950 2550 2300 2550
+Wire Wire Line
+	1950 2750 2300 2750
+$EndSCHEMATC
