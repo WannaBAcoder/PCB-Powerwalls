@@ -14,7 +14,7 @@ You can choose to use plastic cell holders that are available in many through-ho
 ![Top view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/15s4p_PCB/Renders/holder_top.jpg)
 ![Iso view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/15s4p_PCB/Renders/holder_side.jpg)
 
-### 2. Spring Clips
+### 2. Spring clips
 
 A cheaper alternative to plastic holders is spring clips. The clips work like traditional battery holders with springs, but these require the use of zip ties to hold the cells in place.
 
