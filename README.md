@@ -52,13 +52,16 @@ You can order your own board at any number of PCB manufacturers. Many of our sup
 * PCB thickness - 1.6mm
 * PCB Color-Your choice (black is not available for 2oz copper orders)
 * Surface finish - HASL(with lead)
-* Copper Weight - 1oz or 2oz **Higher current applications use 2oz**
-* All other opeions can be left as default
+* Copper Weight - 1oz or 2oz **(Higher current applications use 2oz)**
+* All other options can be left as default
 
+### Ordering Parts
 
-link to wiki?
+#### 15s4p PCB
 
+#### 7s Adapter PCB
 
+#### BMS/Display Adapter PCB
 
 ## Versioning
 
