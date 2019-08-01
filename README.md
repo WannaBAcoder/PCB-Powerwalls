@@ -1,7 +1,13 @@
 # PCB-Powerwalls
-This is the public file Repository for the DIY PCB Powerwall Community
+This is the public file Repository for the [DIY PCB Powerwalls Community](https://www.facebook.com/groups/2573968699280898/)
 
 We are developing a PCB alternative to common powerwall building techniques for 18650(and similar) batteries. This system has been developed with maintainability, expandability, and practicality in mind.
+
+For additional DIY Powerwall building resources, please check out some of the many active facebook groups:
+* [DIY Powerwalls](https://www.facebook.com/groups/323586824654552/)
+* [Jehu's DIY Powerwalls](https://www.facebook.com/groups/183620862292017/)
+* [DIY Powerwall - easy](https://www.facebook.com/groups/244099703167519/)
+
 
 ## 15s4p PCB
 
@@ -83,8 +89,12 @@ This project is licensed under the CERN Open Hardware License - see the [LICENSE
 
 ## Acknowledgments
 
-A special thank you to the people that helped develop the early versions of this hardware and helped others realize the growing potential for these designs:
+A special thank you to the people and communities that helped develop the early versions of this hardware and helped others realize the growing potential for these designs:
 * Shaun Bond
 * Izz Eselam
 * Paulo E Cabigao
 * Dale Bliss
+
+
+
+
