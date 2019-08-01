@@ -37,10 +37,12 @@ The 7s Adapter PCB was created to take our popular 15s4p design and convert it i
 
 ### BMS/Display Adapter PCB
 
-The BMS/display adapter board helps the user connect a [Moonitor](link to Moonitor), or a variety of BMS systems to the battery PCB stacks, and is capable of supporting ~5A balance current. This board also includes spaces to add string-level voltage displays, but they can be disabled if not desired.  You can also use this board with the 7s adapter board configurations. Visit the wiki to find out how. (insert wiki link here once it exists)
+The BMS/display adapter board helps the user connect a [Moonitor](https://www.sarperonal.com/product/6s-16s-solar-plc-li-ion-battery-protection-system/), or a variety of BMS systems to the battery PCB stacks, and is capable of supporting ~5A balance current. This board also includes spaces to add string-level voltage displays, but they can be disabled if not desired.  You can also use this board with the 7s adapter board configurations. Visit the wiki to find out how. (insert wiki link here once it exists)
 
 ![Top view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/BMS_display_adapter_PCB/Renderings/top.png)
 ![Iso view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/BMS_display_adapter_PCB/Renderings/side.png)
+
+insert image of moonitor PCB
 
 ## Building Your Own
 
@@ -64,6 +66,8 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 #### BMS/Display Adapter PCB
 
 #### Moonitor BMS
+
+The Moonitor team is still developing their website and latest hardware, but you can purchase a compatible version from their temporary [website](https://www.sarperonal.com/product/6s-16s-solar-plc-li-ion-battery-protection-system/), or contact their team directly for the most recent version: [Sarper Onal](sarper@sarperonal.com)
 
 ## Versioning
 
