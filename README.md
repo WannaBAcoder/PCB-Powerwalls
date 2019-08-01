@@ -72,7 +72,7 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 
 #### Moonitor BMS
 
-The Moonitor team is still developing their website and latest hardware, but you can purchase a compatible version from their temporary [website](https://www.sarperonal.com/product/6s-16s-solar-plc-li-ion-battery-protection-system/), or contact their team directly for the most recent version: [Sarper Onal](sarper@sarperonal.com)
+The Moonitor team is still developing their website and latest hardware, but you can purchase a compatible version from their temporary [website](https://www.sarperonal.com/product/6s-16s-solar-plc-li-ion-battery-protection-system/), or contact their [team](https://www.sarperonal.com/contact-us/) directly for the most recent version.
 
 ## Versioning
 
