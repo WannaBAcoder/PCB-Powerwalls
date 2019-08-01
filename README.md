@@ -44,14 +44,15 @@ The BMS/display adapter board helps the user connect a [Moonitor](link to Moonit
 
 ## Building Your Own
 
+### Ordering the PCBs
 You can order your own board at any number of PCB manufacturers. Many of our supporters use [JLCPCB.com](https://jlcpcb.com/quote).
 
-### The standard order
-*PCB thickness-1.6mm
-*PCB Color-Your choice (black is not available for 2oz copper orders)
-*Surface finish - HASL(with lead)
-*Copper Weight - 1oz or 2oz. Higher current applications use 2oz.
-*All other opeions can be left as default.
+**Recommended manufacturing options:**
+* PCB thickness - 1.6mm
+* PCB Color-Your choice (black is not available for 2oz copper orders)
+* Surface finish - HASL(with lead)
+* Copper Weight - 1oz or 2oz **Higher current applications use 2oz**
+* All other opeions can be left as default
 
 
 link to wiki?
