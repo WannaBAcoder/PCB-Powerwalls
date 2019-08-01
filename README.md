@@ -3,7 +3,6 @@ This is the public file Repository for the [DIY PCB Powerwalls Community](https:
 
 We are developing a PCB alternative to common powerwall building techniques for 18650(and similar) batteries. This system has been developed with maintainability, expandability, and practicality in mind.
 
-
 For additional DIY Powerwall building resources, please check out some of the many other active facebook groups:
 * [DIY Powerwalls](https://www.facebook.com/groups/323586824654552/)
 * [Jehu's DIY Powerwalls](https://www.facebook.com/groups/183620862292017/)
