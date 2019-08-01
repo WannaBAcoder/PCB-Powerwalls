@@ -64,7 +64,7 @@ Each powerwall PCB has its own revision in the form of VX.X. In addition to this
 
 ## Contributing
 
-Although the kicad source files are available, the safety considerations that go into this project make it potentially unsafe to modify. Do so at your own risk. You can always contribute tothe development of this project by suggesting hardware updates by reporting an [issue](https://github.com/WannaBAcoder/PCB-Powerwalls/issues).
+Although the kicad source files are available, the safety considerations that go into this project make it potentially unsafe to modify. Do so at your own risk! You can always contribute to the development of this project by suggesting hardware updates by reporting an [issue](https://github.com/WannaBAcoder/PCB-Powerwalls/issues).
 
 ## License
 
