@@ -1,7 +1,5 @@
 # PCB-Powerwalls
-This is the public file Repository for the [DIY PCB Powerwalls Community](https://www.facebook.com/groups/2573968699280898/)
-
-Developed and maintained by **Vinnie Maro** and **Shaun Bond**.
+This is the public file Repository for the [DIY PCB Powerwalls Community](https://www.facebook.com/groups/2573968699280898/) which is developed and maintained by **Vinnie Maro** and **Shaun Bond**.
 
 We are developing a PCB alternative to common powerwall building techniques for 18650(and similar) batteries. This system has been developed with maintainability, expandability, and practicality in mind. 
 
