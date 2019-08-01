@@ -46,7 +46,7 @@ The BMS/display adapter board helps the user connect a [Moonitor](link to Moonit
 
 ### Ordering the PCBs
 
-You can order your own board at any number of PCB manufacturers. Many of our supporters use [JLCPCB.com](https://jlcpcb.com/quote).
+You can order your own boards from any number of PCB manufacturers. Many of our supporters use [JLCPCB.com](https://jlcpcb.com/quote).
 
 #### Recommended manufacturing options:
 * PCB thickness - 1.6mm
@@ -62,6 +62,8 @@ You can order your own board at any number of PCB manufacturers. Many of our sup
 #### 7s Adapter PCB
 
 #### BMS/Display Adapter PCB
+
+#### Moonitor
 
 ## Versioning
 
