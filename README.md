@@ -7,7 +7,7 @@ We are developing a PCB alternative to common powerwall building techniques for 
 
 The 15s4p battery board is a stackable solution that reduces the amount of wiring required by placing all series and balance connections through standoffs that structurally connect the boards. Batteries mount to both sides of the PCB, in a variety of ways. Each cell is individually fused for added safety.
 
-###(1. Plastic battery holders)
+###Plastic battery holders
 
 You can choose to use plastic cell holders that are available in many through-hole, and surface mount packages. For the through-hole packages, you must bend the pins at a 90 degree angle so that the holders sit as flat as possible.
 
