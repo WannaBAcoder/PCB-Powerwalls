@@ -39,7 +39,7 @@ The last option is to use fuse wire. You will still need to use zip ties to hold
 
 ### 7s Adapter PCB
 
-The 7s Adapter PCB was created to take our popular 15s4p design and convert it into a 7s8p PCB. We do this by leaving the out the 8s cells, and connecting the other 7s in parallel with the first. It is recommended to use at least one of these adapter PCBs for every 5 boards, or 20A of main fuse(which is 10A load on each of these boards). This board also joins the battery stacks with standoffs. It's important to equally space these boards within a pack for best current distribution. For example, a 12 battery board stack could use 3 adapter boards, spaced every 4 boards.
+The 7s Adapter PCB was created to take our popular 15s4p design and convert it into a 7s8p PCB. We do this by leaving the out the 8s cells, which creates two 7s groups that get connected in parallel. It is recommended to use at least one of these adapter PCBs for every 5 boards, or 20A of main fuse(which is 10A load on each of these boards). This board also joins the battery stacks with standoffs. It's important to equally space these boards within a pack for best current distribution. For example, a 12 battery board stack could use 3 adapter boards, spaced every 4 boards.
 
 ![Top view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/7sAdapter_PCB/Renders/top.png)
 ![Iso view]()
