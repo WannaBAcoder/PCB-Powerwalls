@@ -63,7 +63,7 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 
 #### BMS/Display Adapter PCB
 
-#### Moonitor
+#### Moonitor BMS
 
 ## Versioning
 
