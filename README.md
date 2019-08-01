@@ -3,12 +3,13 @@ This is the public file Repository for the [DIY PCB Powerwalls Community](https:
 
 We are developing a PCB alternative to common powerwall building techniques for 18650(and similar) batteries. This system has been developed with maintainability, expandability, and practicality in mind. 
 
-For additional DIY Powerwall building resources, please check out some of the many other active facebook groups:
+For additional DIY Powerwall building resources, please check out some of the many other active facebook groups and forums:
 * [DIY Powerwalls](https://www.facebook.com/groups/323586824654552/)
 * [Jehu's DIY Powerwalls](https://www.facebook.com/groups/183620862292017/)
 * [DIY Powerwall - easy](https://www.facebook.com/groups/244099703167519/)
+* [Second Life Storage](https://secondlifestorage.com/index.php)
 
-## Upcoming Features
+## Features in Development
 * 15s4p PCB Thermal fusing
 * Lugs for higher current conenctions on BMS/Display Adapter PCB
 
