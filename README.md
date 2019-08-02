@@ -74,7 +74,7 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 
 #### 15s4p PCB
 * Plastic Holders
-  - 1-cell holder(Keystone 1042)
+  - 1-cell holder([Keystone 1042](https://www.keyelco.com/product.cfm/product_id/918))
     - [mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/1042?qs=%2F7TOpeL5Mz4qPdWi9tuLKw%3D%3D&gclid=CjwKCAjwm4rqBRBUEiwAwaWjjC21kEPrcNO7SQeen5w2QoHVTzlL-M1gGIkDHi2yZwdU-rbxfRRc6xoCWLsQAvD_BwE)
     - [aliexpress](https://www.aliexpress.com/item/32843455571.html?spm=a2g0o.productlist.0.0.487c40e68pqd20&algo_pvid=2d7f9b9f-3d4c-4ce9-a35f-b65c2eb5f04f&algo_expid=2d7f9b9f-3d4c-4ce9-a35f-b65c2eb5f04f-0&btsid=5be8ef8c-3a87-41c8-af7c-a986ac64726d&ws_ab_test=searchweb0_0,searchweb201602_4,searchweb201603_52)
 
