@@ -86,12 +86,16 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
     - [digikey](https://www.digikey.com/product-detail/en/mpd-memory-protection-devices/BK-18650-PC8/BK-18650-PC8-ND/2330515)
     - [aliexpress](https://www.aliexpress.com/item/32813957846.html?spm=a2g0o.productlist.0.0.69dd44c0Jy70zY&algo_pvid=6d1f0285-86b4-4f30-8689-4ffc808e86bf&algo_expid=6d1f0285-86b4-4f30-8689-4ffc808e86bf-0&btsid=38b36ad8-3752-4109-9ae1-f03aeb2c26e8&ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_53)
     
-  - [40mm M4 standoffs](https://www.aliexpress.com/item/32909068891.html?pid=808_0000_0109&spm=a2g0n.search-amp.list.32909068891&aff_trace_key=332c98827ee6446f80143395d597b19b-1564724741171-07852-UneMJZVf&aff_platform=msite&m_page_id=9849amp-ds4DZWQQ-IDu7HzwI4TLGw1564724838958&fbclid=IwAR3M15Ip61Iu9X8k-uB9fa5s9BZqdkEpw6nAfUjtFbnB0vwKfW6etgOFu9g)
+  - 40mm M4 Standoffs
+     - [Nickel plated steel](https://www.aliexpress.com/item/33009686876.html?spm=a2g0o.productlist.0.0.61571f66pt5bWm&algo_pvid=9a643e7a-535f-40cf-b5ed-bd621be4c2a2&algo_expid=9a643e7a-535f-40cf-b5ed-bd621be4c2a2-38&btsid=cb015f28-81e7-4d5b-bff6-ac27e1b705c9&ws_ab_test=searchweb0_0%2Csearchweb201602_7%2Csearchweb201603_53&fbclid=IwAR1i7L36_8TP1QeeUUGsSI7OYQZ8V5TdpMY-vIQx72vAV06tubDgNu83XK8)
+      - [Brass](https://www.aliexpress.com/item/32909068891.html?pid=808_0000_0109&spm=a2g0n.search-amp.list.32909068891&aff_trace_key=332c98827ee6446f80143395d597b19b-1564724741171-07852-UneMJZVf&aff_platform=msite&m_page_id=9849amp-ds4DZWQQ-IDu7HzwI4TLGw1564724838958&fbclid=IwAR3M15Ip61Iu9X8k-uB9fa5s9BZqdkEpw6nAfUjtFbnB0vwKfW6etgOFu9g)
    
 * Spring clip([Keystone 5331](https://www.keyelco.com/product.cfm/product_id/823))
     - [mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/5331?qs=poiiR8sYdC9oC9Ij8wI9kA%3D%3D)
     - [newark](https://www.newark.com/keystone/5331/battery-contact-a-aa-2-3a-cell/dp/25T0473)
-    - [40mm M4 standoffs](https://www.aliexpress.com/item/32909068891.html?pid=808_0000_0109&spm=a2g0n.search-amp.list.32909068891&aff_trace_key=332c98827ee6446f80143395d597b19b-1564724741171-07852-UneMJZVf&aff_platform=msite&m_page_id=9849amp-ds4DZWQQ-IDu7HzwI4TLGw1564724838958&fbclid=IwAR3M15Ip61Iu9X8k-uB9fa5s9BZqdkEpw6nAfUjtFbnB0vwKfW6etgOFu9g)
+    - 45mm M4 Standoffs
+      - [Nickel plated steel](https://www.aliexpress.com/item/33009686876.html?spm=a2g0o.productlist.0.0.61571f66pt5bWm&algo_pvid=9a643e7a-535f-40cf-b5ed-bd621be4c2a2&algo_expid=9a643e7a-535f-40cf-b5ed-bd621be4c2a2-38&btsid=cb015f28-81e7-4d5b-bff6-ac27e1b705c9&ws_ab_test=searchweb0_0%2Csearchweb201602_7%2Csearchweb201603_53&fbclid=IwAR1i7L36_8TP1QeeUUGsSI7OYQZ8V5TdpMY-vIQx72vAV06tubDgNu83XK8)
+      - [Brass](https://www.aliexpress.com/item/32909068891.html?pid=808_0000_0109&spm=a2g0n.search-amp.list.32909068891&aff_trace_key=332c98827ee6446f80143395d597b19b-1564724741171-07852-UneMJZVf&aff_platform=msite&m_page_id=9849amp-ds4DZWQQ-IDu7HzwI4TLGw1564724838958&fbclid=IwAR3M15Ip61Iu9X8k-uB9fa5s9BZqdkEpw6nAfUjtFbnB0vwKfW6etgOFu9g)
    
 * Fuse Wire
 
