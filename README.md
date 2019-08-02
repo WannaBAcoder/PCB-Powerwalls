@@ -1,5 +1,5 @@
 # PCB-Powerwalls
-This is the public file Repository for the [DIY PCB Powerwalls Community](https://www.facebook.com/groups/2573968699280898/) projects which are developed and maintained by **Vinnie Maro** and **Shaun Bond**.
+This is the public file Repository for the [DIY PCB Powerwalls Community](https://www.facebook.com/groups/2573968699280898/). The projects are developed and maintained by **Vinnie Maro** and **Shaun Bond**.
 
 We are developing a PCB alternative to common powerwall building techniques for 18650(and similar) batteries. This system has been developed with maintainability, expandability, and practicality in mind. 
 
@@ -10,8 +10,7 @@ For additional DIY Powerwall building resources, please check out some of the ma
 * [Second Life Storage](https://secondlifestorage.com/index.php)
 
 ## Features in Development
-* 15s4p PCB Thermal fusing
-* Lugs for higher current conenctions on BMS/Display Adapter PCB
+To see features currently in development, check out our [issues](https://github.com/WannaBAcoder/PCB-Powerwalls/issues) page.
 
 ## 15s4p PCB
 
@@ -47,7 +46,7 @@ The 7s Adapter PCB was created to take our popular 15s4p design and convert it i
 
 ### BMS/Display Adapter PCB
 
-The BMS/display adapter board helps the user connect a [Moonitor](https://www.sarperonal.com/product/6s-16s-solar-plc-li-ion-battery-protection-system/), or a variety of BMS systems to the battery PCB stacks, and is capable of supporting ~5A balance current. This board also includes spaces to add series-level voltage displays, but they can be disabled if not desired.  You can also use this board with the 7s adapter board configurations. Visit the wiki to find out how. (insert wiki link here once it exists)
+The BMS/display adapter board helps the user connect a [Moonitor](https://www.sarperonal.com/product/6s-16s-solar-plc-li-ion-battery-protection-system/), or a variety of BMS systems to the battery PCB stacks, and is capable of supporting ~5A balance current. This board also includes spaces to add series-level voltage displays, but they can be disabled if not desired.  You can also use this board with the 7s adapter board configurations.
 
 ![Top view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/BMS_display_adapter_PCB/Renderings/top.png)
 ![Iso view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/BMS_display_adapter_PCB/Renderings/side.png)
@@ -78,6 +77,9 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 #### Moonitor BMS
 
 The Moonitor team is still developing their website and latest hardware, but you can purchase a compatible version from their temporary [website](https://www.sarperonal.com/product/6s-16s-solar-plc-li-ion-battery-protection-system/), or contact their [team](https://www.sarperonal.com/contact-us/) directly for the most recent version.
+
+### Building Instructions and Documentation
+Check out the [wiki](https://github.com/WannaBAcoder/PCB-Powerwalls/wiki) for assembly instructions, and additional information.
 
 ## Versioning
 
