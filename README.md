@@ -73,23 +73,23 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 #### 15s4p PCB
 ##### Plastic Holders
 * 1-cell holder(Keystone 1042)
-- [mouser]()
-- [allieexpress]()
+  - [mouser]()
+  - [allieexpress]()
 
 * 2-cell holder(Keystone 1048) 
-- [mouser]()
-- [allieexpress]()
+  - [mouser]()
+  - [allieexpress]()
 
 * 3-cell holder(........)
-- [mouser]()
-- [allieexpress]()
+  - [mouser]()
+  - [allieexpress]()
 
 * 4-cell holder(........)
 
 ##### Spring clips
 * Spring clip(Keystone 5331)
-- [mouser]()
-- [allieexpress]()
+  - [mouser]()
+  - [allieexpress]()
 
 ##### Fuse Wire
 
