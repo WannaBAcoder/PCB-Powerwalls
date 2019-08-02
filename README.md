@@ -67,10 +67,34 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 * All other options can be left as default
 
 ### Ordering Parts
+#### Common Parts
+* [40mm M4 standoffs]()
 
 #### 15s4p PCB
+##### Plastic Holders
+* 1-cell holder(Keystone 1042)
+- [mouser]()
+- [allieexpress]()
+
+* 2-cell holder(Keystone 1048) 
+- [mouser]()
+- [allieexpress]()
+
+* 3-cell holder(........)
+- [mouser]()
+- [allieexpress]()
+
+* 4-cell holder(........)
+
+##### Spring clips
+* Spring clip(Keystone 5331)
+- [mouser]()
+- [allieexpress]()
+
+##### Fuse Wire
 
 #### 7s Adapter PCB
+##### 
 
 #### BMS/Display Adapter PCB
 
