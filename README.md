@@ -71,7 +71,7 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 * [40mm M4 standoffs]()
 
 #### 15s4p PCB
-##### Plastic Holders
+#### Plastic Holders
 * 1-cell holder(Keystone 1042)
   - [mouser]()
   - [allieexpress]()
@@ -86,15 +86,14 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 
 * 4-cell holder(........)
 
-##### Spring clips
+#### Spring clips
 * Spring clip(Keystone 5331)
   - [mouser]()
   - [allieexpress]()
 
-##### Fuse Wire
+#### Fuse Wire
 
-#### 7s Adapter PCB
-##### 
+#### 7s Adapter PCB 
 
 #### BMS/Display Adapter PCB
 
