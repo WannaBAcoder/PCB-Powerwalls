@@ -18,7 +18,7 @@ The 15s4p battery board is a stackable solution that reduces the amount of wirin
 
 ### 1. Plastic battery holders
 
-You can choose to use plastic cell holders that are available in many through-hole, and surface mount packages. For the through-hole packages, you must bend the pins at a 90 degree angle so that the holders sit as flat as possible.
+You can choose to use plastic cell holders that are available in many through-hole and surface mount packages. For the through-hole packages, you must bend the pins at a 90 degree angle so that the holders sit as flat as possible.
 
 ![Top view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/15s4p_PCB/Renders/holder_top.jpg)
 ![Iso view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/15s4p_PCB/Renders/holder_side.jpg)
@@ -32,7 +32,7 @@ A cheaper alternative to plastic holders is spring clips. The clips work like tr
 
 ### 3. Fuse wire
 
-The last option is to use fuse wire. You will still need to use zip ties to hold the cells in place, but you can solder the fuse wire directly to the PCB pads, and remove the need for populating fuses(you will need to short the fuse pads to do this). You can also use large fuse wire and still use fuses if desired. Spotwelding fuse wire to the batteries and soldering the other end to the PCB pads is recommended.
+The last option is to use fuse wire. You will still need to use zip ties to hold the cells in place, but you can solder the fuse wire directly to the PCB pads, and remove the need for populating fuses(you will need to short the fuse pads to do this). You can also use large fuse wire and still use fuses, if desired. Spotwelding fuse wire to the batteries and soldering the other end to the PCB pads is recommended.
 
 ![Top view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/15s4p_PCB/Renders/fw_top.jpg)
 ![Iso view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/15s4p_PCB/Renders/fw_side.jpg)
@@ -69,29 +69,32 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 ### Ordering Parts
 #### Common Parts
 * [40mm M4 standoffs]()
+  - [mouser]()
+  - [allieexpress]()
 
 #### 15s4p PCB
-#### Plastic Holders
-* 1-cell holder(Keystone 1042)
-  - [mouser]()
-  - [allieexpress]()
+* Plastic Holders
+  - 1-cell holder(Keystone 1042)
+    - [mouser]()
+    - [allieexpress]()
 
-* 2-cell holder(Keystone 1048) 
-  - [mouser]()
-  - [allieexpress]()
+  - 2-cell holder(Keystone 1048) 
+    - [mouser]()
+    - [allieexpress]()
 
-* 3-cell holder(........)
-  - [mouser]()
-  - [allieexpress]()
+  - 3-cell holder(........)
+    - [mouser]()
+    - [allieexpress]()
 
-* 4-cell holder(........)
-
-#### Spring clips
+  - 4-cell holder(........)
+    - [mouser]()
+    - [allieexpress]()
+   
 * Spring clip(Keystone 5331)
-  - [mouser]()
-  - [allieexpress]()
+    - [mouser]()
+    - [allieexpress]()
 
-#### Fuse Wire
+* Fuse Wire
 
 #### 7s Adapter PCB 
 
@@ -110,7 +113,7 @@ Each powerwall PCB has its own revision in the form of VX.X. In addition to this
 
 ## Contributing
 
-Although the kicad source files are available, the safety considerations that go into this project make it potentially unsafe to modify. Do so at your own risk! You can always contribute to the development of this project by suggesting improvements or new features desired by reporting them as [issues](https://github.com/WannaBAcoder/PCB-Powerwalls/issues).
+Although the kicad source files are available, the safety considerations that go into this project make it potentially unsafe to modify; do so at your own risk! You can always contribute to the development of this project by suggesting improvements or new features desired by reporting them as [issues](https://github.com/WannaBAcoder/PCB-Powerwalls/issues).
 
 ## License
 
