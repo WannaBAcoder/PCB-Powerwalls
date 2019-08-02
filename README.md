@@ -75,28 +75,26 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 #### 15s4p PCB
 * Plastic Holders
   - 1-cell holder(Keystone 1042)
-    - [mouser]()
-    - [allieexpress]()
+    - [mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/1042?qs=%2F7TOpeL5Mz4qPdWi9tuLKw%3D%3D&gclid=CjwKCAjwm4rqBRBUEiwAwaWjjC21kEPrcNO7SQeen5w2QoHVTzlL-M1gGIkDHi2yZwdU-rbxfRRc6xoCWLsQAvD_BwE)
+    - [aliexpress](https://www.aliexpress.com/item/32843455571.html?spm=a2g0o.productlist.0.0.487c40e68pqd20&algo_pvid=2d7f9b9f-3d4c-4ce9-a35f-b65c2eb5f04f&algo_expid=2d7f9b9f-3d4c-4ce9-a35f-b65c2eb5f04f-0&btsid=5be8ef8c-3a87-41c8-af7c-a986ac64726d&ws_ab_test=searchweb0_0,searchweb201602_4,searchweb201603_52)
 
-  - 2-cell holder(Keystone 1048) 
-    - [mouser]()
-    - [allieexpress]()
+  - 2-cell holder([Keystone 1048](https://www.keyelco.com/product.cfm/product_id/920)) 
+    - [mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/1048?qs=%2F7TOpeL5Mz5jXkg8vI8Dyw%3D%3D)
+    - [aliexpress](https://www.aliexpress.com/item/32810550974.html?spm=a2g0o.productlist.0.0.6d23509fdGDO8G&algo_pvid=bc697f71-8610-42bf-9caa-2c6182c8690e&algo_expid=bc697f71-8610-42bf-9caa-2c6182c8690e-0&btsid=5fac0df8-46fd-44b7-bddc-d52b5a4952c4&ws_ab_test=searchweb0_0,searchweb201602_4,searchweb201603_52)
 
   - 3-cell holder(........)
     - [mouser]()
-    - [allieexpress]()
+    - [aliexpress]()
 
   - 4-cell holder(........)
     - [mouser]()
-    - [allieexpress]()
+    - [aliexpress]()
    
-* Spring clip(Keystone 5331)
-    - [mouser]()
-    - [allieexpress]()
+* Spring clip([Keystone 5331](https://www.keyelco.com/product.cfm/product_id/823))
+    - [mouser](https://www.mouser.com/ProductDetail/Keystone-Electronics/5331?qs=poiiR8sYdC9oC9Ij8wI9kA%3D%3D)
+    - [newark](https://www.newark.com/keystone/5331/battery-contact-a-aa-2-3a-cell/dp/25T0473)
 
 * Fuse Wire
-
-#### 7s Adapter PCB 
 
 #### BMS/Display Adapter PCB
 
