@@ -77,6 +77,7 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
   - [1.5A](https://www.ebay.com/itm/200Pcs-Glass-Fuse-Tube-Axial-With-Lead-Wire-Fast-Blows-Fuse-3x10mm-250V-1-5A-P/401758396012?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D20160908110712%26meid%3Da10f567fa4374be69fc06417b70cef45%26pid%3D100677%26rk%3D4%26rkt%3D30%26sd%3D333259318203%26itm%3D401758396012%26pg%3D2385738&_trksid=p2385738.c100677.m4598)
   - [2A](https://www.ebay.com/i/283303754606?rt=nc&_trkparms=aid%3D222007%26algo%3DSIM.MBE%26ao%3D2%26asc%3D20160908110712%26meid%3Da10f567fa4374be69fc06417b70cef45%26pid%3D100677%26rk%3D5%26rkt%3D30%26sd%3D333259318203%26itm%3D283303754606%26pg%3D2385738)
   - [3A](https://www.ebay.com/itm/200Pcs-Glass-Fuse-Tube-Axial-With-Lead-Wire-Fast-Blows-Fuse-3x10mm-250V-3A-US/283485834501?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D20160908110712%26meid%3D45fd6583f6e14ab2a546fee1b4138e27%26pid%3D100677%26rk%3D1%26rkt%3D30%26sd%3D283303754606%26itm%3D283485834501%26pg%3D2385738&_trksid=p2385738.c100677.m4598)
+  - [aliexpress](https://www.aliexpress.com/item/32910625856.html?spm=a2g0o.productlist.0.0.1737d2b4jAQsRa&algo_pvid=d670b6fe-927f-49bc-8e46-4ea88ec12f0d&algo_expid=d670b6fe-927f-49bc-8e46-4ea88ec12f0d-17&btsid=31c10488-12d2-4517-82d5-fce6cd9fe86a&ws_ab_test=searchweb0_0%2Csearchweb201602_7%2Csearchweb201603_53&fbclid=IwAR2cu_fARDCkvXmC-ECtJe0K4SezOG-_YxEne1wyviiZ2j2a6Mf_GHND5QM)
   
 * Fuse Wire  
     
