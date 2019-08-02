@@ -10,7 +10,7 @@ For additional DIY Powerwall building resources, please check out some of the ma
 * [Second Life Storage](https://secondlifestorage.com/index.php)
 
 ## Features in Development
-To see features currently in development, check out our [issues](https://github.com/WannaBAcoder/PCB-Powerwalls/issues) page.
+To see features currently in development or exploration, check out our [issues](https://github.com/WannaBAcoder/PCB-Powerwalls/issues) page.
 
 ## 15s4p PCB
 
