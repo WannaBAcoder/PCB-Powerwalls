@@ -61,9 +61,9 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 
 **Recommended manufacturing options:**
 * PCB thickness - 1.6mm
-* PCB Color-Your choice (black is not available for 2oz copper orders)
+* PCB color-Your choice (black is not available for 2oz copper orders)
 * Surface finish - HASL(with lead)
-* Copper Weight - 1oz or 2oz **(Higher current applications use 2oz)**
+* Copper weight - 1oz or 2oz **(Higher current applications use 2oz)**
 * All other options can be left as default
 
 ### Ordering Parts
