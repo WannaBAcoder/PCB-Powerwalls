@@ -1,4 +1,4 @@
-(module BMS_module (layer F.Cu) (tedit 5D4CBA55)
+(module BMS_module (layer F.Cu) (tedit 5D529745)
   (fp_text reference REF** (at -0.25 -3.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -2715,7 +2715,7 @@
   (pad 4 thru_hole circle (at 64.998 120.826) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 68.498 120.826) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 75.498 120.826) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model "C:/Users/User/Desktop/MoonitorV3 v2.step"
+  (model "${KIPRJMOD}/3D Models/MoonitorV3 v2.step"
     (offset (xyz 0 0 19.5))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,4 +1,4 @@
-(module 40mm_fan (layer F.Cu) (tedit 5D4CB043)
+(module 40mm_fan (layer F.Cu) (tedit 5D5297AE)
   (fp_text reference REF** (at -18 -21) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -33,9 +33,9 @@
     (zone_connect 2))
   (pad "" np_thru_hole circle (at -16 -16) (size 4.3 4.3) (drill 4.3) (layers *.Cu *.Mask)
     (zone_connect 2))
-  (model "${KIPRJMOD}/40x40x10 DC Fan.STEP"
-    (offset (xyz 0 0 5.25))
+  (model "${KIPRJMOD}/3D Models/40x40x10 DC Fan.STEP"
+    (offset (xyz 0 0 -7))
     (scale (xyz 1 1 1))
-    (rotate (xyz 180 0 90))
+    (rotate (xyz 0 0 0))
   )
 )

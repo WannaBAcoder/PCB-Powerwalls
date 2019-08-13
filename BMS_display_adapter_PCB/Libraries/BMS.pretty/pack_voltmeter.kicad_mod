@@ -1,4 +1,4 @@
-(module pack_voltmeter (layer F.Cu) (tedit 5D350D29)
+(module pack_voltmeter (layer F.Cu) (tedit 5D52970C)
   (fp_text reference REF** (at 0.5 0) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -36,7 +36,7 @@
   (fp_line (start 11.75 -7.5) (end -11.75 -7.5) (layer B.SilkS) (width 0.15))
   (pad "" thru_hole circle (at -14 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 14 0) (size 3.5 3.5) (drill 2) (layers *.Cu *.Mask))
-  (model "C:/Users/User/Desktop/LED DC 0-100V Digital Voltmeter Panel Meter.STEP"
+  (model "${KIPRJMOD}/3D Models/LED DC 0-100V Digital Voltmeter Panel Meter.STEP"
     (offset (xyz 0 0 4.5))
     (scale (xyz 1 1.4 1))
     (rotate (xyz 0 0 0))
