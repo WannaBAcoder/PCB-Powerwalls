@@ -135,8 +135,6 @@ F 3 "~" H 4050 7550 50  0001 C CNN
 	1    4050 7550
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4050 7450 4050 7500
 $Comp
 L Connector:Conn_01x01_Male J16
 U 1 1 5CFFA13D
@@ -423,12 +421,7 @@ F 3 "~" H 2000 4200 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2200 4900 2200 5000
-Wire Wire Line
-	2200 7500 4050 7500
 Connection ~ 2200 5000
-Connection ~ 4050 7500
-Wire Wire Line
-	4050 7500 4050 7550
 Wire Wire Line
 	2200 5000 2200 7500
 Wire Wire Line
@@ -1414,4 +1407,36 @@ F 3 "~" H 4250 7450 50  0001 C CNN
 	1    4250 7450
 	-1   0    0    1   
 $EndComp
+Wire Wire Line
+	4050 7450 4050 7500
+$Comp
+L Device:Fuse F17
+U 1 1 5D535347
+P 3100 7500
+F 0 "F17" V 2995 7500 50  0000 C CNN
+F 1 "Fuse" V 2994 7500 50  0001 C CNN
+F 2 "BMS:Fuse" V 3030 7500 50  0001 C CNN
+F 3 "~" H 3100 7500 50  0001 C CNN
+	1    3100 7500
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2200 7500 2900 7500
+Wire Wire Line
+	3250 7500 3300 7500
+Connection ~ 4050 7500
+Wire Wire Line
+	4050 7500 4050 7550
+Wire Wire Line
+	2900 7500 2900 7350
+Wire Wire Line
+	2900 7350 3300 7350
+Wire Wire Line
+	3300 7350 3300 7500
+Connection ~ 2900 7500
+Wire Wire Line
+	2900 7500 2950 7500
+Connection ~ 3300 7500
+Wire Wire Line
+	3300 7500 4050 7500
 $EndSCHEMATC
