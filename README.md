@@ -48,8 +48,8 @@ The 7s Adapter PCB was created to take our popular 15s4p design and convert it i
 
 The BMS/display adapter board helps the user connect a [Moonitor](https://www.sarperonal.com/product/6s-16s-solar-plc-li-ion-battery-protection-system/), or a variety of BMS systems to the battery PCB stacks, and is capable of supporting ~5A balance current. This board also includes spaces to add series-level voltage displays, but they can be disabled if not desired.  You can also use this board with the 7s adapter board configurations.
 
-![Top view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/BMS_display_adapter_PCB/Renderings/top.png)
-![Iso view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/master/BMS_display_adapter_PCB/Renderings/side.png)
+![Top view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/Development/BMS_display_adapter_PCB/Renderings/top.png)
+![Iso view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/Development/BMS_display_adapter_PCB/Renderings/iso.png)
 
 ![moonitor view](https://github.com/WannaBAcoder/PCB-Powerwalls/blob/Development/BMS_display_adapter_PCB/Renderings/MoonitorBMS.png)
 
