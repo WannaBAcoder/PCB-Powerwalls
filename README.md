@@ -68,12 +68,12 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
 
 ### Ordering Parts
 #### Common Parts
-* M4 Standoffs(40mm for plastic holder builds, 45mm for spring clip builds)
+* M4 Standoffs(40mm for SMD plastic holders, 45mm for through-hole plastic holders, may be able to make 40mm work with zip tie methods if zipties are alternated. Not confirmed at this time)
     -  [Nickel plated steel](https://www.aliexpress.com/item/33009686876.html?spm=a2g0o.productlist.0.0.61571f66pt5bWm&algo_pvid=9a643e7a-535f-40cf-b5ed-bd621be4c2a2&algo_expid=9a643e7a-535f-40cf-b5ed-bd621be4c2a2-38&btsid=cb015f28-81e7-4d5b-bff6-ac27e1b705c9&ws_ab_test=searchweb0_0%2Csearchweb201602_7%2Csearchweb201603_53&fbclid=IwAR1i7L36_8TP1QeeUUGsSI7OYQZ8V5TdpMY-vIQx72vAV06tubDgNu83XK8)
     - [Brass](https://www.aliexpress.com/item/32909068891.html?pid=808_0000_0109&spm=a2g0n.search-amp.list.32909068891&aff_trace_key=332c98827ee6446f80143395d597b19b-1564724741171-07852-UneMJZVf&aff_platform=msite&m_page_id=9849amp-ds4DZWQQ-IDu7HzwI4TLGw1564724838958&fbclid=IwAR3M15Ip61Iu9X8k-uB9fa5s9BZqdkEpw6nAfUjtFbnB0vwKfW6etgOFu9g)
     
 * 60x Glass Axial Fuses
-**Choosing the right fuse is based on tradeoff between usebility and saftey. Even a 0.5A fuse can't protect against all 18650(and similar) failure modes. Shaun Bond's testing suggests 0.5A fuses are sufficenit for large builds, but you should still consider your pack-loading characteristics when choosing them.**
+**Choosing the right fuse is based on tradeoff between usebility and saftey. Even a 0.5A fuse can't protect against all 18650(and similar) failure modes. Shaun Bond's testing suggests 0.5A fuses are the ideal size for safety, but impractical for all massive builds with low load. You should still consider your pack-loading characteristics when choosing them.**
   - [0.5A](https://www.ebay.com/itm/200Pcs-Glass-Fuse-Tube-Axial-With-Lead-Wire-Fast-Blows-Fuse-3x10mm-250V-0-5A-US-/283481427034?hash=item4200cf4c5a)
   - [1A](https://www.ebay.com/i/372678478703?chn=ps&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&itemid=372678478703&targetid=486560530718&device=m&mktype=pla&googleloc=9030145&poi=&campaignid=1497793114&mkgroupid=60383707360&rlsatarget=pla-486560530718&abcId=1139456&merchantid=137697764&gclid=EAIaIQobChMItaCEy6Dk4wIV0Rx9Ch3iWgGvEAQYCyABEgKVxPD_BwE&fbclid=IwAR1QAa1hm0T0Rmuvq4w6-hz3E788jz0vE18OvbbaAJsIOb30UHCT80PTtSM)
   - [1.5A](https://www.ebay.com/itm/200Pcs-Glass-Fuse-Tube-Axial-With-Lead-Wire-Fast-Blows-Fuse-3x10mm-250V-1-5A-P/401758396012?_trkparms=aid%3D555018%26algo%3DPL.SIM%26ao%3D2%26asc%3D20160908110712%26meid%3Da10f567fa4374be69fc06417b70cef45%26pid%3D100677%26rk%3D4%26rkt%3D30%26sd%3D333259318203%26itm%3D401758396012%26pg%3D2385738&_trksid=p2385738.c100677.m4598)
