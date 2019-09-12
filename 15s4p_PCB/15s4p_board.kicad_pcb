@@ -88,7 +88,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "C:/Users/User/Documents/GitHub/PCB-Powerwalls/15s4p_PCB/"))
   )
 
   (net 0 "")
@@ -8140,19 +8140,19 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 5D19ED5F) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Mask) (tstamp 5D7ABE47) (hatch edge 0.508)
     (priority 5)
     (connect_pads yes (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
-        (xy 344.740987 26.75) (xy 344.759014 23.25) (xy 366.009014 23.25) (xy 365.990987 26.75)
+        (xy 344.740987 26.75) (xy 344.759014 23.25) (xy 365.25 23.25) (xy 365.25 26.75)
       )
     )
     (filled_polygon
       (pts
-        (xy 365.86464 26.623) (xy 344.868642 26.623) (xy 344.885361 23.377) (xy 365.881359 23.377)
+        (xy 365.123 26.623) (xy 344.868642 26.623) (xy 344.885361 23.377) (xy 365.123 23.377)
       )
     )
   )
@@ -9777,22 +9777,6 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer B.Mask) (tstamp 5D40CC5E) (hatch edge 0.508)
-    (priority 5)
-    (connect_pads yes (clearance 0.508))
-    (min_thickness 0.254)
-    (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
-    (polygon
-      (pts
-        (xy 344.740987 26.75) (xy 344.759014 23.25) (xy 366.009014 23.25) (xy 365.990987 26.75)
-      )
-    )
-    (filled_polygon
-      (pts
-        (xy 365.86464 26.623) (xy 344.868642 26.623) (xy 344.885361 23.377) (xy 365.881359 23.377)
-      )
-    )
-  )
   (zone (net 0) (net_name "") (layer F.Mask) (tstamp 5D40D731) (hatch edge 0.508)
     (priority 5)
     (connect_pads yes (clearance 0.508))
@@ -9831,6 +9815,22 @@
         (xy 373.627 87.72002) (xy 373.627 64.782909) (xy 374.861018 62.561677) (xy 374.870917 62.538833) (xy 374.87617 62.514497)
         (xy 374.877 62.5) (xy 374.877 55.625) (xy 374.87456 55.600224) (xy 374.867333 55.576399) (xy 374.853344 55.551183)
         (xy 373.627 53.834301) (xy 373.627 30.126671) (xy 376.847965 30.118316)
+      )
+    )
+  )
+  (zone (net 0) (net_name "") (layer B.Mask) (tstamp 5D7ABF38) (hatch edge 0.508)
+    (priority 5)
+    (connect_pads yes (clearance 0.508))
+    (min_thickness 0.254)
+    (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
+    (polygon
+      (pts
+        (xy 344.740987 26.75) (xy 344.759014 23.25) (xy 365.25 23.25) (xy 365.25 26.75)
+      )
+    )
+    (filled_polygon
+      (pts
+        (xy 365.123 26.623) (xy 344.868642 26.623) (xy 344.885361 23.377) (xy 365.123 23.377)
       )
     )
   )
