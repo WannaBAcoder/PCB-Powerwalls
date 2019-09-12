@@ -125,6 +125,9 @@ You can order your own boards from any number of PCB manufacturers. Many of our 
     - [Digikey](https://www.digikey.com/product-detail/en/littelfuse-inc/0251.250NRT1L/F5997CT-ND/4146349)
     - [mouser](https://www.mouser.com/ProductDetail/Littelfuse/0251250NRT1L?qs=%2Fha2pyFadugfDk6tKwZ2TFq2EME7Ea%252Bx7IV62g8M4POuyu4j1eOqCA%3D%3D)
     - [Ebay](https://www.ebay.com/itm/200Pc-Glass-Tube-Fuse-Metal-Axial-Double-Hat-Fast-Blow-Fuse-3-6x10mm-250V-0-25A/264389811818?epid=2270852170&hash=item3d8edc5e6a:g:CDoAAOSwokVdIOIx)
+
+* 16x B4A Lugs
+    - [hex](https://lugsdirect.com/B4A-PCB-HEX.html)
     
 * 0.1" male pin headers
     - [aliexpress](https://www.aliexpress.com/item/32899255706.html?spm=a2g0o.productlist.0.0.6a13532boQDFkx&algo_pvid=8dbb68db-2cf8-45e3-86e2-01a316cf7929&algo_expid=8dbb68db-2cf8-45e3-86e2-01a316cf7929-8&btsid=413ff5c7-b166-4259-ab24-a0d8e013eebf&ws_ab_test=searchweb0_0,searchweb201602_7,searchweb201603_53)
